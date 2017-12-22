@@ -1,18 +1,73 @@
 ---
 title: "Hahn lab protocols"
 output:
-  html_document:
-    theme: united
+  prettydoc::html_pretty:
+    theme: architect
     toc: yes
   pdf_document:
     number_sections: yes
     toc: yes
+fontsize: 18pt
 ---
+
+Welcome to the Hahn lab protocols page. Here is a master list of lab procedures we use for gene and protein expression. Please visit [our lab page](http://entomology.ifas.ufl.edu/hahn/lab/) to find out more about our work. 
 
 updated: 2017-12-22  
 
 # Gene expression workflow   
 
+```{r,echo=FALSE}
+library(DiagrammeR)
+
+mermaid("
+graph TD
+  a{Tissue} --> b(RNA Isolation) 
+  b --> c[Quality Control] 
+  c --> d[Reverse Transcription] 
+  d --> e[quantitative real time PCR]
+  e --> f[Data processing and handling]
+")
+```
+
+## RNA isolation  
+
+### Reagents:  
+
+### Protocol: 
 
 
-# Protein expression workflow
+## RNA quantification and quality control   
+
+## cDNA synthesis: reverse transcription    
+
+## Quantitative Real Time PCR    
+
+## Data processing and handling  
+
+# Protein expression workflow   
+
+```{r,echo=FALSE}
+mermaid("
+graph TD
+  a{Tissue} --> b(Protein Isolation) 
+  b --> c[Quality Control] 
+  c --> d[Polyacrylamide Gel Electrophoresis] 
+  d --> e[Western Blotting]
+  e --> f[Data processing and handling]
+")
+```
+
+
+## Protein Isolation   
+
+### Reagents   
+
+### Protocol 
+
+## Quantifying protein and quality control   
+
+## Polyacrylamide Gel Electrophoresis   
+
+## Western Blotting  
+
+## Data processing and handling 
