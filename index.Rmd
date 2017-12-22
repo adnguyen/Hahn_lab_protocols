@@ -10,7 +10,7 @@ output:
 fontsize: 18pt
 ---
 
-Welcome to the Hahn lab protocols page. Here is a master list of lab procedures we use for gene and protein expression. Please visit [our lab page](http://entomology.ifas.ufl.edu/hahn/lab/) to find out more about our work. 
+Welcome to the Hahn lab protocols page. Here is a master list of lab procedures we use for gene and protein expression. Please visit [our lab page](http://entomology.ifas.ufl.edu/hahn/lab/) to find out more about our work. Click [here](https://github.com/adnguyen/Hahn_lab_protocols) for the github repository for this website.  
 
 updated: 2017-12-22  
 
