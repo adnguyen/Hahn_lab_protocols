@@ -33,12 +33,54 @@ graph TD
 
 ### Reagents:  
 
+* [TRI Reagent](https://www.thermofisher.com/order/catalog/product/15596026) (cat# 15596026)
+* [BCP(1-bromo-3-chloropropane)](https://www.fishersci.com/shop/products/bcp-47/nc9551474#?keyword=BCP)(cat# NC9551474)
+* [THE RNA storage solution] (https://www.thermofisher.com/order/catalog/product/AM7001)(cat# AM7001)
+* [DNA-free™ DNA Removal Kit] (https://www.thermofisher.com/order/catalog/product/AM1906) (cat# AM1906)
+* [Qubit™ dsDNA BR Assay Kit] (https://www.thermofisher.com/order/catalog/product/Q32850) (cat# Q32850)
+* [Qubit™ RNA IQ Assay Kit]  (https://www.thermofisher.com/order/catalog/product/Q33221?SID=srch-srp-Q33221) (cat# Q33221)
 ### Protocol: 
 
+RNA isolation protocol (originated from Applied Biosystems and adpted to our lab condition) (https://assets.thermofisher.com/TFS-Assets/LSG/manuals/9738M_D.pdf)
 
-## RNA quantification and quality control   
+Homogenize
+1. Homogenize in 1ml TRI Reagent and 5 beads by the Bead Mill Homogenizer (Precellys® Evolution), use the soft tissue program which will homogenize 15s, break for 30s and then homogenize for an additional 15s.
+2. Icubate the homogenates for 5 min at room temperature.
+
+RNA extraction
+3. Add 100 μL BCP per 1 mL of TRI Reagent solution,mix well, and incubate at room temp for 5–15 min.
+4. Centrifuge at 12,000 x g for 10–15 min at 4°C, then transfer the aqueous phase to a fresh tube.
+
+RNA Precipitation and Wash 
+5. Add 500 μL of isopropanol per 1 mL of
+TRI Reagent solution, vortex for 5–10 sec, and
+incubate at room temp for 5–10 min.
+6. Centrifuge at 12,000 x g for 8 min at 4–25°C, and
+discard the supernatant.
+7. Add 1 mL of 75% ethanol per 1 mL of
+
+TRI Reagent solution.
+8. Centrifuge at 7,500 x g for 5 min, remove the ethanol,
+and vacum dry the RNA pellet for 5 min.
+
+RNA Solubilization 
+9. Dissolve RNA in the THE RNA storage solution.
+
+## RNA quantification and quality control  
+RNA concertration
+1. the concentration of an RNA solution is determined by NanoDrop.
+
+Dnase1 Treatment with DNA-free kit(https://www.thermofisher.com/order/catalog/product/AM1906) 
+
+
+dsDNA contamination and RNA quality check
+
 
 ## cDNA synthesis: reverse transcription    
+
+
+
+
 
 ## Quantitative Real Time PCR    
 
