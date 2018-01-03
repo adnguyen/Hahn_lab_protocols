@@ -35,10 +35,11 @@ graph TD
 
 * [TRI Reagent](https://www.thermofisher.com/order/catalog/product/15596026) (cat# 15596026)
 * [BCP(1-bromo-3-chloropropane)](https://www.fishersci.com/shop/products/bcp-47/nc9551474#?keyword=BCP)(cat# NC9551474)
-* [THE RNA storage solution] (https://www.thermofisher.com/order/catalog/product/AM7001)(cat# AM7001)
-* [DNA-free™ DNA Removal Kit] (https://www.thermofisher.com/order/catalog/product/AM1906) (cat# AM1906)
-* [Qubit™ dsDNA BR Assay Kit] (https://www.thermofisher.com/order/catalog/product/Q32850) (cat# Q32850)
-* [Qubit™ RNA IQ Assay Kit]  (https://www.thermofisher.com/order/catalog/product/Q33221?SID=srch-srp-Q33221) (cat# Q33221)
+* [THE RNA storage solution](https://www.thermofisher.com/order/catalog/product/AM7001) (cat# AM7001)
+* [DNA-free™ DNA Removal Kit](https://www.thermofisher.com/order/catalog/product/AM1906) (cat# AM1906)
+* [Qubit™ dsDNA BR Assay Kit](https://www.thermofisher.com/order/catalog/product/Q32850) (cat# Q32850)
+* [Qubit™ RNA IQ Assay Kit](https://www.thermofisher.com/order/catalog/product/Q33221?SID=srch-srp-Q33221) (cat# Q33221)
+
 ### Protocol: 
 
 RNA isolation protocol (originated from Applied Biosystems and adpted to our lab condition) (https://assets.thermofisher.com/TFS-Assets/LSG/manuals/9738M_D.pdf)
