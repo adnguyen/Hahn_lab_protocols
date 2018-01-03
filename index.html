@@ -48,7 +48,6 @@
 <li><a href="#gene-expression-workflow">Gene expression workflow</a><ul>
 <li><a href="#rna-isolation">RNA isolation</a><ul>
 <li><a href="#reagents">Reagents:</a></li>
-<li><a href="#protocol">Protocol:</a></li>
 </ul></li>
 <li><a href="#rna-quantification-and-quality-control">RNA quantification and quality control</a></li>
 <li><a href="#cdna-synthesis-reverse-transcription">cDNA synthesis: reverse transcription</a></li>
@@ -58,7 +57,7 @@
 <li><a href="#protein-expression-workflow">Protein expression workflow</a><ul>
 <li><a href="#protein-isolation">Protein Isolation</a><ul>
 <li><a href="#reagents-1">Reagents</a></li>
-<li><a href="#protocol-1">Protocol</a></li>
+<li><a href="#protocol">Protocol</a></li>
 </ul></li>
 <li><a href="#quantifying-protein-and-quality-control">Quantifying protein and quality control</a></li>
 <li><a href="#polyacrylamide-gel-electrophoresis">Polyacrylamide Gel Electrophoresis</a></li>
@@ -75,19 +74,33 @@
 <p>updated: 2017-12-22</p>
 <div id="gene-expression-workflow" class="section level1">
 <h1>Gene expression workflow</h1>
-<div id="htmlwidget-cbdb12bab8b2a2f1342d" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-cbdb12bab8b2a2f1342d">{"x":{"diagram":"\ngraph TD\n  a{Tissue} --> b(RNA Isolation) \n  b --> c[Quality Control] \n  c --> d[Reverse Transcription] \n  d --> e[quantitative real time PCR]\n  e --> f[Data processing and handling]\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-f72dd5cae60cea5a4132" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-f72dd5cae60cea5a4132">{"x":{"diagram":"\ngraph TD\n  a{Tissue} --> b(RNA Isolation) \n  b --> c[Quality Control] \n  c --> d[Reverse Transcription] \n  d --> e[quantitative real time PCR]\n  e --> f[Data processing and handling]\n"},"evals":[],"jsHooks":[]}</script>
 <div id="rna-isolation" class="section level2">
 <h2>RNA isolation</h2>
 <div id="reagents" class="section level3">
 <h3>Reagents:</h3>
-</div>
-<div id="protocol" class="section level3">
-<h3>Protocol:</h3>
+<ul>
+<li><a href="https://www.thermofisher.com/order/catalog/product/15596026">TRI Reagent</a> (cat# 15596026)</li>
+<li><a href="https://www.fishersci.com/shop/products/bcp-47/nc9551474#?keyword=BCP">BCP(1-bromo-3-chloropropane)</a>(cat# NC9551474)</li>
+<li>[THE RNA storage solution] (<a href="https://www.thermofisher.com/order/catalog/product/AM7001" class="uri">https://www.thermofisher.com/order/catalog/product/AM7001</a>)(cat# AM7001)</li>
+<li>[DNA-free™ DNA Removal Kit] (<a href="https://www.thermofisher.com/order/catalog/product/AM1906" class="uri">https://www.thermofisher.com/order/catalog/product/AM1906</a>) (cat# AM1906)</li>
+<li>[Qubit™ dsDNA BR Assay Kit] (<a href="https://www.thermofisher.com/order/catalog/product/Q32850" class="uri">https://www.thermofisher.com/order/catalog/product/Q32850</a>) (cat# Q32850)</li>
+<li>[Qubit™ RNA IQ Assay Kit] (<a href="https://www.thermofisher.com/order/catalog/product/Q33221?SID=srch-srp-Q33221" class="uri">https://www.thermofisher.com/order/catalog/product/Q33221?SID=srch-srp-Q33221</a>) (cat# Q33221) ### Protocol:</li>
+</ul>
+<p>RNA isolation protocol (originated from Applied Biosystems and adpted to our lab condition) (<a href="https://assets.thermofisher.com/TFS-Assets/LSG/manuals/9738M_D.pdf" class="uri">https://assets.thermofisher.com/TFS-Assets/LSG/manuals/9738M_D.pdf</a>)</p>
+<p>Homogenize 1. Homogenize in 1ml TRI Reagent and 5 beads by the Bead Mill Homogenizer (Precellys® Evolution), use the soft tissue program which will homogenize 15s, break for 30s and then homogenize for an additional 15s. 2. Icubate the homogenates for 5 min at room temperature.</p>
+<p>RNA extraction 3. Add 100 μL BCP per 1 mL of TRI Reagent solution,mix well, and incubate at room temp for 5–15 min. 4. Centrifuge at 12,000 x g for 10–15 min at 4°C, then transfer the aqueous phase to a fresh tube.</p>
+<p>RNA Precipitation and Wash 5. Add 500 μL of isopropanol per 1 mL of TRI Reagent solution, vortex for 5–10 sec, and incubate at room temp for 5–10 min. 6. Centrifuge at 12,000 x g for 8 min at 4–25°C, and discard the supernatant. 7. Add 1 mL of 75% ethanol per 1 mL of</p>
+<p>TRI Reagent solution. 8. Centrifuge at 7,500 x g for 5 min, remove the ethanol, and vacum dry the RNA pellet for 5 min.</p>
+<p>RNA Solubilization 9. Dissolve RNA in the THE RNA storage solution.</p>
 </div>
 </div>
 <div id="rna-quantification-and-quality-control" class="section level2">
 <h2>RNA quantification and quality control</h2>
+<p>RNA concertration 1. the concentration of an RNA solution is determined by NanoDrop.</p>
+<p>Dnase1 Treatment with DNA-free kit(<a href="https://www.thermofisher.com/order/catalog/product/AM1906" class="uri">https://www.thermofisher.com/order/catalog/product/AM1906</a>)</p>
+<p>dsDNA contamination and RNA quality check</p>
 </div>
 <div id="cdna-synthesis-reverse-transcription" class="section level2">
 <h2>cDNA synthesis: reverse transcription</h2>
@@ -101,14 +114,14 @@
 </div>
 <div id="protein-expression-workflow" class="section level1">
 <h1>Protein expression workflow</h1>
-<div id="htmlwidget-9af04362467309ac2e85" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-9af04362467309ac2e85">{"x":{"diagram":"\ngraph TD\n  a{Tissue} --> b(Protein Isolation) \n  b --> c[Quality Control] \n  c --> d[Polyacrylamide Gel Electrophoresis] \n  d --> e[Western Blotting]\n  e --> f[Data processing and handling]\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-3e3eb91706b03b455bf8" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3e3eb91706b03b455bf8">{"x":{"diagram":"\ngraph TD\n  a{Tissue} --> b(Protein Isolation) \n  b --> c[Quality Control] \n  c --> d[Polyacrylamide Gel Electrophoresis] \n  d --> e[Western Blotting]\n  e --> f[Data processing and handling]\n"},"evals":[],"jsHooks":[]}</script>
 <div id="protein-isolation" class="section level2">
 <h2>Protein Isolation</h2>
 <div id="reagents-1" class="section level3">
 <h3>Reagents</h3>
 </div>
-<div id="protocol-1" class="section level3">
+<div id="protocol" class="section level3">
 <h3>Protocol</h3>
 </div>
 </div>
