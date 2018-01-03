@@ -44,9 +44,11 @@ graph TD
 
 RNA isolation protocol (originated from Applied Biosystems and adpted to our lab condition) (https://assets.thermofisher.com/TFS-Assets/LSG/manuals/9738M_D.pdf)
 
-Homogenize
-1. Homogenize in 1ml TRI Reagent and 5 beads by the Bead Mill Homogenizer (Precellys® Evolution), use the soft tissue program which will homogenize 15s, break for 30s and then homogenize for an additional 15s.
-2. Icubate the homogenates for 5 min at room temperature.
+**Homogenize**   
+
+1. Homogenize in 1ml TRI Reagent and 5 beads by the Bead Mill Homogenizer (Precellys® Evolution), use the soft tissue program which will homogenize 15s, break for 30s and then homogenize for an additional 15s.   
+
+2. Icubate the homogenates for 5 min at room temperature.   
 
 RNA extraction
 3. Add 100 μL BCP per 1 mL of TRI Reagent solution,mix well, and incubate at room temp for 5–15 min.
