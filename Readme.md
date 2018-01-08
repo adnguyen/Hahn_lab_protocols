@@ -15,3 +15,7 @@ example of adding a picture , use this syntax:
 ```
 
 ![](http://myrmecos.net/wp-content/uploads/2011/02/army_ant_week.jpg)
+
+me and lloyd Davis
+
+![](https://user-images.githubusercontent.com/4654474/34692871-a74cb462-f48f-11e7-95cb-9e2309cd8422.jpg)
