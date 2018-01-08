@@ -130,8 +130,18 @@ $(document).ready(function () {
 <p>updated: 2017-12-22</p>
 <div id="gene-expression-workflow" class="section level1">
 <h1>Gene expression workflow</h1>
+<<<<<<< HEAD
 <div id="rna-isolation" class="section level2">
 <h2>RNA isolation</h2>
+=======
+<<<<<<< HEAD
+<p><div id="htmlwidget-edc2a513b6a332fdb5c4" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-edc2a513b6a332fdb5c4">{"x":{"diagram":"\ngraph TD\n  a{Tissue} --> b(RNA Isolation) \n  b --> c[Quality Control] \n  c --> d[Reverse Transcription] \n  d --> e[quantitative real time PCR]\n  e --> f[Data processing and handling]\n"},"evals":[],"jsHooks":[]}</script> ## RNA isolation</p>
+=======
+<p><div id="htmlwidget-5f361e2fb1fe174dd1b5" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-5f361e2fb1fe174dd1b5">{"x":{"diagram":"\ngraph TD\n  a{Tissue} --> b(RNA Isolation) \n  b --> c[Quality Control] \n  c --> d[Reverse Transcription] \n  d --> e[quantitative real time PCR]\n  e --> f[Data processing and handling]\n"},"evals":[],"jsHooks":[]}</script> ## RNA isolation</p>
+>>>>>>> 5dec7aa9668d9b8cf75df7f94474a81a3a2a15af
+>>>>>>> origin/master
 <div id="reagents" class="section level3">
 <h3>Reagents:</h3>
 <ul>
@@ -156,16 +166,22 @@ $(document).ready(function () {
 <p>TRI Reagent solution. 8. Centrifuge at 7,500 x g for 5 min, remove the ethanol, and vacum dry the RNA pellet for 5 min.</p>
 <p>RNA Solubilization 9. Dissolve RNA in the THE RNA storage soluStep 2: Remove contaminating DNA from RNA</p>
 </div>
-<div id="remove-contaminating-dna-from-rna" class="section level3">
-<h3>Remove contaminating DNA from RNA:</h3>
-</div>
+<div id="remove-contaminating-dna-from-rna" class="section level2">
+<h2>Remove contaminating DNA from RNA:</h2>
 <div id="reagents-1" class="section level3">
 <h3>Reagents:</h3>
-<p><em><a href="https://www.thermofisher.com/order/catalog/product/AM1906">Dnase1 Treatment with DNA-free kit</a> </em><a href="https://www.fishersci.com/shop/products/hyclone-water-molecular-biology-grade-6/p-7058038#?keyword=molecular+grade+water">HyClone™ Water, Molecular Biology Grade</a> 0.5ml centrifuge tubes</p>
+<p><em><a href="https://www.thermofisher.com/order/catalog/product/AM1906">Dnase1 Treatment with DNA-free kit</a><br />
+</em><a href="https://www.fishersci.com/shop/products/hyclone-water-molecular-biology-grade-6/p-7058038#?keyword=molecular+grade+water">HyClone™ Water, Molecular Biology Grade</a><br />
+0.5ml centrifuge tubes</p>
 </div>
+<<<<<<< HEAD
 </div>
 <div id="protocol-1" class="section level2">
 <h2>Protocol:</h2>
+=======
+<div id="protocol-1" class="section level3">
+<h3>Protocol:</h3>
+>>>>>>> origin/master
 <p>This protocol is for a 50ul reaction volume with up to 10ug RNA.</p>
 <ol style="list-style-type: decimal">
 <li>Prepare the master mix as follows (prepare 5 tubes extra) Dnase1 10× buffer = 5.0ul (0.1× reaction volume) × (number of tubes+5) Dnase1 = 1.0ul × (number of tubes+5) Molecular grade water = 4ul × (number of tubes+5)</li>
@@ -176,6 +192,50 @@ $(document).ready(function () {
 <li><p>Incubate 2 min at room temperature. Mix every 30s to 60s (This step is very important in order to redisperse the DNase inactivation reagent.)</p></li>
 <li><p>Centrifuge at 10,000 × g for 1.5 min and transfer the RNA to a fresh tube. Note: This centrifugation step pellets the DNase Inactivation Reagent. After centrifuging, carefully transfer the supernatant, which contains the RNA, into a fresh tube. Avoid introducing the DNase Inactivation Reagent into solutions that may be used for downstream enzymatic reactions, because it can sequester divalent cations and change the buffer conditions. ion.</p></li>
 </ol>
+</div>
+</div>
+<div id="dsdna-contamination-and-rna-quality-control" class="section level2">
+<h2>dsDNA contamination and RNA quality control</h2>
+<p>Reagents:</p>
+<p><em>Agarose<br />
+</em>10× TAE Buffer<br />
+<em>Commercial Bleach, 6% Sodium Hypochlorite<br />
+</em>Ethidium Bromide (10 mg/ml)<br />
+*10× DNA Loading Buffer (1.9 mM xylene cyanol, 1.5 mM bromophenol blue, 25% glycerol in sterile dH20)</p>
+</div>
+<div id="protocol-2" class="section level2">
+<h2>Protocol</h2>
+<div id="prepare-the-gel" class="section level3">
+<h3>Prepare the gel</h3>
+<ol style="list-style-type: decimal">
+<li>Add 1.0% w/v agarose to 1× TAE buffer. e.g. 0.5 g in 50 mL.<br />
+</li>
+<li>Add 1.0% v/v Clorox® bleach, e.g. 500 μL in 50 mL, and incubate at room temperature for 5 minutes, with occasional swirling<br />
+</li>
+<li>Heat the suspension to melt the agarose (10 sec intervals with swirling) until all the agarose dissolves).<br />
+</li>
+<li>Allow solution to cool to about 50C (i.e. you can touch it for a couple seconds without discomfort)<br />
+</li>
+<li>Adding ethidium bromide to a final concentration of 0.5 μg/mL. e.g. 25ug in 50ml. Swirl thoroughly.<br />
+</li>
+<li>Pour solution into gel mold and allow the ‘bleach gel’ to solidify (about 30min in room temperature)<br />
+</li>
+<li>Position the gel into the gel electrophoresis tank. Avoid bubbles.<br />
+</li>
+<li>Add enough 1× TAE buffer to cover the gel to a depth of about 5mm.<br />
+### Load and Run RNA Samples</li>
+<li>Mix the samples of RNA with DNA loading buffer<br />
+1ug RNA+1ul_10× DNA loading buffer + molecular grade water to make final volume of 10ul.<br />
+</li>
+<li>Load the mixtures and RNA ladder slowly into the slots. Avoid making bubbles!<br />
+</li>
+<li>Attach the electrical leads so that RNA can move toward the anode.<br />
+</li>
+<li>Apply a voltage of 100 V for approximately 35 minutes and then visualizing by UV trans illumination<br />
+### Visualizing by UV trans-illumination</li>
+<li>sdd</li>
+</ol>
+</div>
 </div>
 <div id="rna-quantification-and-quality-control" class="section level2">
 <h2>RNA quantification and quality control</h2>
@@ -195,12 +255,22 @@ $(document).ready(function () {
 </div>
 <div id="protein-expression-workflow" class="section level1">
 <h1>Protein expression workflow</h1>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<div id="htmlwidget-261f7ac5e788427bd5f4" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-261f7ac5e788427bd5f4">{"x":{"diagram":"\ngraph TD\n  a{Tissue} --> b(Protein Isolation) \n  b --> c[Quality Control] \n  c --> d[Polyacrylamide Gel Electrophoresis] \n  d --> e[Western Blotting]\n  e --> f[Data processing and handling]\n"},"evals":[],"jsHooks":[]}</script>
+=======
+<div id="htmlwidget-c81d53c914bd27464247" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-c81d53c914bd27464247">{"x":{"diagram":"\ngraph TD\n  a{Tissue} --> b(Protein Isolation) \n  b --> c[Quality Control] \n  c --> d[Polyacrylamide Gel Electrophoresis] \n  d --> e[Western Blotting]\n  e --> f[Data processing and handling]\n"},"evals":[],"jsHooks":[]}</script>
+>>>>>>> 5dec7aa9668d9b8cf75df7f94474a81a3a2a15af
+>>>>>>> origin/master
 <div id="protein-isolation" class="section level2">
 <h2>Protein Isolation</h2>
 <div id="reagents-2" class="section level3">
 <h3>Reagents</h3>
 </div>
-<div id="protocol-2" class="section level3">
+<div id="protocol-3" class="section level3">
 <h3>Protocol</h3>
 </div>
 </div>

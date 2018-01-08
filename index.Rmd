@@ -79,15 +79,15 @@ RNA Solubilization
 9. Dissolve RNA in the THE RNA storage soluStep 2: Remove contaminating DNA from RNA
 
 
-### Remove contaminating DNA from RNA:
+## Remove contaminating DNA from RNA:
 ### Reagents:
 
-*[Dnase1 Treatment with DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1906) 
-*[HyClone™ Water, Molecular Biology Grade](https://www.fishersci.com/shop/products/hyclone-water-molecular-biology-grade-6/p-7058038#?keyword=molecular+grade+water)
+*[Dnase1 Treatment with DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1906)       
+*[HyClone™ Water, Molecular Biology Grade](https://www.fishersci.com/shop/products/hyclone-water-molecular-biology-grade-6/p-7058038#?keyword=molecular+grade+water)        
 0.5ml centrifuge tubes
 
 
-##Protocol:
+### Protocol:
 This protocol is for a 50ul reaction volume with up to 10ug RNA.
 
 1.	Prepare the master mix as follows (prepare 5 tubes extra)
@@ -109,6 +109,33 @@ Note: This centrifugation step pellets the DNase Inactivation Reagent. After cen
 ion.
 
 
+## dsDNA contamination and RNA quality control
+Reagents:
+
+*Agarose        
+*10× TAE Buffer                        
+*Commercial Bleach, 6% Sodium Hypochlorite                    
+*Ethidium Bromide (10 mg/ml)                  
+*10× DNA Loading Buffer (1.9 mM xylene cyanol, 1.5 mM bromophenol blue, 25% glycerol in sterile dH20)                   
+
+## Protocol
+### Prepare the gel                                          
+1.	Add 1.0% w/v agarose to 1× TAE buffer. e.g. 0.5 g in 50 mL.                          
+2.	Add 1.0% v/v Clorox® bleach, e.g. 500 μL in 50 mL, and incubate at room temperature for 5 minutes, with occasional swirling                            
+3.	Heat the suspension to melt the agarose (10 sec intervals with swirling) until all the agarose dissolves).                             
+4.	Allow solution to cool to about 50C (i.e. you can touch it for a couple seconds without discomfort)                      
+5.	Adding ethidium bromide to a final concentration of 0.5 μg/mL. e.g. 25ug in 50ml. Swirl thoroughly.                                 
+6.	Pour solution into gel mold and allow the ‘bleach gel’ to solidify (about 30min in room temperature)                              
+7.	Position the gel into the gel electrophoresis tank. Avoid bubbles.                              
+8.	Add enough 1× TAE buffer to cover the gel to a depth of about 5mm.                       
+### Load and Run RNA Samples
+9.	Mix the samples of RNA with DNA loading buffer                         
+1ug RNA+1ul_10× DNA loading buffer + molecular grade water to make final volume of 10ul.                         
+10.	Load the mixtures and RNA ladder slowly into the slots. Avoid making bubbles!                               
+11.	Attach the electrical leads so that RNA can move toward the anode.                                
+12.	Apply a voltage of 100 V for approximately 35 minutes and then visualizing by UV trans illumination                                  
+### Visualizing by UV trans-illumination
+13.	sdd
 
 
 ## RNA quantification and quality control  
