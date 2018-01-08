@@ -66,7 +66,40 @@ TRI Reagent solution.
 and vacum dry the RNA pellet for 5 min.
 
 RNA Solubilization 
-9. Dissolve RNA in the THE RNA storage solution.
+9. Dissolve RNA in the THE RNA storage soluStep 2: Remove contaminating DNA from RNA
+
+
+### Remove contaminating DNA from RNA:
+### Reagents:
+
+*[Dnase1 Treatment with DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1906) 
+*[HyClone™ Water, Molecular Biology Grade](https://www.fishersci.com/shop/products/hyclone-water-molecular-biology-grade-6/p-7058038#?keyword=molecular+grade+water)
+0.5ml centrifuge tubes
+
+
+##Protocol:
+This protocol is for a 50ul reaction volume with up to 10ug RNA.
+
+1.	Prepare the master mix as follows (prepare 5 tubes extra)
+Dnase1 10× buffer       = 5.0ul (0.1× reaction volume) × (number of tubes+5)
+Dnase1                        = 1.0ul × (number of tubes+5)
+Molecular grade water = 4ul × (number of tubes+5)
+2.	Pipette out 10ug RNA samples to new 0.5ml tubes (volume depends on the concentration of RNA samples), then add molecular grade water (volume=40ul-volume of RNA) to make the final volume to 40ul.
+
+3.	Add 10ul master kit to each of the above reaction tube (now the total volume is 50ul)
+
+4.	Incubate at 37˚C for 30min.
+
+5.	Add 5ul (0.1× reaction volume) suspended DNase Inactivation Reagent and mix well.
+
+6.	Incubate 2 min at room temperature. Mix every 30s to 60s (This step is very important in order to redisperse the DNase inactivation reagent.)
+
+7.	Centrifuge at 10,000 × g for 1.5 min and transfer the RNA to a fresh tube.
+Note: This centrifugation step pellets the DNase Inactivation Reagent. After centrifuging, carefully transfer the supernatant, which contains the RNA, into a fresh tube. Avoid introducing the DNase Inactivation Reagent into solutions that may be used for downstream enzymatic reactions, because it can sequester divalent cations and change the buffer conditions.
+ion.
+
+
+
 
 ## RNA quantification and quality control  
 RNA concertration
