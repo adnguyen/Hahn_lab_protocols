@@ -119,7 +119,7 @@ Reagents:
 *10× DNA Loading Buffer (1.9 mM xylene cyanol, 1.5 mM bromophenol blue, 25% glycerol in sterile dH20)                   
 
 ## Protocol
-### Prepare the gel                                          
+## Prepare the gel                                          
 1.	Add 1.0% w/v agarose to 1× TAE buffer. e.g. 0.5 g in 50 mL.                          
 2.	Add 1.0% v/v Clorox® bleach, e.g. 500 μL in 50 mL, and incubate at room temperature for 5 minutes, with occasional swirling                            
 3.	Heat the suspension to melt the agarose (10 sec intervals with swirling) until all the agarose dissolves).                             
@@ -128,13 +128,13 @@ Reagents:
 6.	Pour solution into gel mold and allow the ‘bleach gel’ to solidify (about 30min in room temperature)                              
 7.	Position the gel into the gel electrophoresis tank. Avoid bubbles.                              
 8.	Add enough 1× TAE buffer to cover the gel to a depth of about 5mm.                       
-### Load and Run RNA Samples
+## Load and Run RNA Samples
 9.	Mix the samples of RNA with DNA loading buffer                         
 1ug RNA+1ul_10× DNA loading buffer + molecular grade water to make final volume of 10ul.                         
 10.	Load the mixtures and RNA ladder slowly into the slots. Avoid making bubbles!                               
 11.	Attach the electrical leads so that RNA can move toward the anode.                                
 12.	Apply a voltage of 100 V for approximately 35 minutes and then visualizing by UV trans illumination                                  
-### Visualizing by UV trans-illumination
+## Visualizing by UV trans-illumination
 13.	sdd
 
 
