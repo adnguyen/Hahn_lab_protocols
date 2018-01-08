@@ -35,19 +35,6 @@ graph TD
   e --> f[Data processing and handling]
 ")
 ```
-
-
-
-
-
-dan hahn is the most
-
-
-
-
-
-
-
 ## RNA isolation  
 
 ### Reagents:  
