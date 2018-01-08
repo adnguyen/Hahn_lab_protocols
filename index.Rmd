@@ -69,7 +69,7 @@ RNA Solubilization
 9. Dissolve RNA in the THE RNA storage soluStep 2: Remove contaminating DNA from RNA
 
 
-### Remove contaminating DNA from RNA:
+## Remove contaminating DNA from RNA:
 ### Reagents:
 
 *[Dnase1 Treatment with DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1906) 
@@ -77,7 +77,7 @@ RNA Solubilization
 0.5ml centrifuge tubes
 
 
-##Protocol:
+### Protocol:
 This protocol is for a 50ul reaction volume with up to 10ug RNA.
 
 1.	Prepare the master mix as follows (prepare 5 tubes extra)
