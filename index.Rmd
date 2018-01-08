@@ -10,13 +10,23 @@ output:
 fontsize: 18pt
 =======
 
+
+List of protocols: 
+
+* [Ecdysteroid Extraction](2018-01-08_ecdysteroid_extraction.html)
+
+
+
+
+Dan hahn is cool.
+
 Welcome to the Hahn lab protocols page. Here is a master list of lab procedures we use for gene and protein expression. Please visit [our lab page](http://entomology.ifas.ufl.edu/hahn/lab/) to find out more about our work. Click [here](https://github.com/adnguyen/Hahn_lab_protocols) for the github repository for this website.  
 
 updated: 2017-12-22  
 
 # Gene expression workflow   
 
-```{r,echo=FALSE}
+```{r,echo=FALSE,include=FALSE,eval=FALSE}
 library(DiagrammeR)
 
 mermaid("
@@ -150,7 +160,7 @@ dsDNA contamination and RNA quality check
 
 # Protein expression workflow   
 
-```{r,echo=FALSE}
+```{r,echo=FALSE,include=FALSE,eval=FALSE}
 mermaid("
 graph TD
   a{Tissue} --> b(Protein Isolation) 
