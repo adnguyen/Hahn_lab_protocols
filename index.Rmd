@@ -118,7 +118,7 @@ ion.
 
 
 ## Step 3: dsDNA contamination and RNA quality control
-Reagents:
+### Reagents:
 
 *Agarose        
 *10× TAE Buffer                        
@@ -126,7 +126,7 @@ Reagents:
 *Ethidium Bromide (10 mg/ml)                  
 *10× DNA Loading Buffer (1.9 mM xylene cyanol, 1.5 mM bromophenol blue, 25% glycerol in sterile dH20)                   
 
-## Protocol
+### Protocol
 **Prepare the gel**                                
                                                      
 1.	Add 1.0% w/v agarose to 1× TAE buffer. e.g. 0.5 g in 50 mL. 
