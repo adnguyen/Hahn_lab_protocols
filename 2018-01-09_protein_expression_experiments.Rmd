@@ -1,0 +1,42 @@
+---
+title: "Protein Expression Experiments"
+author: ""
+date: "2018-01-09"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+fontsize: 18pt
+---
+
+# Protein expression workflow   
+
+```{r,echo=FALSE}
+library(DiagrammeR)
+mermaid("
+graph TD
+  a{Tissue} --> b(Protein Isolation) 
+  b --> c[Quality Control] 
+  c --> d[Polyacrylamide Gel Electrophoresis] 
+  d --> e[Western Blotting]
+  e --> f[Data processing and handling]
+")
+```
+
+
+## Protein Isolation   
+
+### Reagents   
+
+### Protocol 
+
+## Quantifying protein and quality control   
+
+## Polyacrylamide Gel Electrophoresis   
+
+## Western Blotting  
+
+## Data processing and handling 
