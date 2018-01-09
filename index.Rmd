@@ -1,4 +1,10 @@
 ---
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+---
 title: "Hahn lab protocols"
 output:
   prettydoc::html_pretty:
@@ -38,7 +44,7 @@ graph TD
   e --> f[Data processing and handling]
 ")
 ```
-## RNA isolation  
+## Step1: RNA isolation  
 
 ### Reagents:  
 
@@ -46,12 +52,10 @@ graph TD
 * [BCP(1-bromo-3-chloropropane)](https://www.fishersci.com/shop/products/bcp-47/nc9551474#?keyword=BCP)(cat# NC9551474)
 * [THE RNA storage solution](https://www.thermofisher.com/order/catalog/product/AM7001) (cat# AM7001)
 * [DNA-free™ DNA Removal Kit](https://www.thermofisher.com/order/catalog/product/AM1906) (cat# AM1906)
-* [Qubit™ dsDNA BR Assay Kit](https://www.thermofisher.com/order/catalog/product/Q32850) (cat# Q32850)
-* [Qubit™ RNA IQ Assay Kit](https://www.thermofisher.com/order/catalog/product/Q33221?SID=srch-srp-Q33221) (cat# Q33221)
 
 ### Protocol: 
 
-RNA isolation protocol (originated from Applied Biosystems and adpted to our lab condition) (https://assets.thermofisher.com/TFS-Assets/LSG/manuals/9738M_D.pdf)
+[RNA isolation protocol is originated from Applied Biosystems and adpted to our lab condition ](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/9738M_D.pdf)
 
 **Homogenize**   
 
@@ -59,27 +63,30 @@ RNA isolation protocol (originated from Applied Biosystems and adpted to our lab
 
 2. Icubate the homogenates for 5 min at room temperature.   
 
-RNA extraction
-3. Add 100 μL BCP per 1 mL of TRI Reagent solution,mix well, and incubate at room temp for 5–15 min.
+**RNA extraction**               
+                                                
+3. Add 100 μL BCP per 1 mL of TRI Reagent solution,mix well, and incubate at room temp for 5–15 min.                       
+                                          
 4. Centrifuge at 12,000 x g for 10–15 min at 4°C, then transfer the aqueous phase to a fresh tube.
+                                       
 
-RNA Precipitation and Wash 
-5. Add 500 μL of isopropanol per 1 mL of
-TRI Reagent solution, vortex for 5–10 sec, and
-incubate at room temp for 5–10 min.
-6. Centrifuge at 12,000 x g for 8 min at 4–25°C, and
-discard the supernatant.
-7. Add 1 mL of 75% ethanol per 1 mL of
+**RNA Precipitation and Wash**                                
+                                                  
+5. Add 500 μL of isopropanol per 1 mL of TRI Reagent solution, vortex for 5–10 sec, and incubate at room temp for 5–10 min.                                                                  
+                                                         
+6. Centrifuge at 12,000 x g for 8 min at 4–25°C, and discard the supernatant.                                      
+                                                     
+7. Add 1 mL of 75% ethanol per 1 mL of TRI Reagent solution.                                                     
+                                                                     
+8. Centrifuge at 7,500 x g for 5 min, remove the ethanol,and vacum dry the RNA pellet for 5 min.                         
+                               
 
-TRI Reagent solution.
-8. Centrifuge at 7,500 x g for 5 min, remove the ethanol,
-and vacum dry the RNA pellet for 5 min.
+**RNA Solubilization**                                                  
+                                                
+9. Dissolve RNA in the THE RNA storage solution.                                         
+                                    
 
-RNA Solubilization 
-9. Dissolve RNA in the THE RNA storage soluStep 2: Remove contaminating DNA from RNA
-
-
-## Remove contaminating DNA from RNA:
+## Step 2: Remove contaminating DNA from RNA:
 ### Reagents:
 
 *[Dnase1 Treatment with DNA-free kit](https://www.thermofisher.com/order/catalog/product/AM1906)       
@@ -94,6 +101,7 @@ This protocol is for a 50ul reaction volume with up to 10ug RNA.
 Dnase1 10× buffer       = 5.0ul (0.1× reaction volume) × (number of tubes+5)
 Dnase1                        = 1.0ul × (number of tubes+5)
 Molecular grade water = 4ul × (number of tubes+5)
+
 2.	Pipette out 10ug RNA samples to new 0.5ml tubes (volume depends on the concentration of RNA samples), then add molecular grade water (volume=40ul-volume of RNA) to make the final volume to 40ul.
 
 3.	Add 10ul master kit to each of the above reaction tube (now the total volume is 50ul)
@@ -109,7 +117,7 @@ Note: This centrifugation step pellets the DNase Inactivation Reagent. After cen
 ion.
 
 
-## dsDNA contamination and RNA quality control
+## Step 3: dsDNA contamination and RNA quality control
 Reagents:
 
 *Agarose        
@@ -119,22 +127,37 @@ Reagents:
 *10× DNA Loading Buffer (1.9 mM xylene cyanol, 1.5 mM bromophenol blue, 25% glycerol in sterile dH20)                   
 
 ## Protocol
-## Prepare the gel                                          
-1.	Add 1.0% w/v agarose to 1× TAE buffer. e.g. 0.5 g in 50 mL.                          
-2.	Add 1.0% v/v Clorox® bleach, e.g. 500 μL in 50 mL, and incubate at room temperature for 5 minutes, with occasional swirling                            
-3.	Heat the suspension to melt the agarose (10 sec intervals with swirling) until all the agarose dissolves).                             
-4.	Allow solution to cool to about 50C (i.e. you can touch it for a couple seconds without discomfort)                      
-5.	Adding ethidium bromide to a final concentration of 0.5 μg/mL. e.g. 25ug in 50ml. Swirl thoroughly.                                 
-6.	Pour solution into gel mold and allow the ‘bleach gel’ to solidify (about 30min in room temperature)                              
-7.	Position the gel into the gel electrophoresis tank. Avoid bubbles.                              
-8.	Add enough 1× TAE buffer to cover the gel to a depth of about 5mm.                       
-## Load and Run RNA Samples
-9.	Mix the samples of RNA with DNA loading buffer                         
-1ug RNA+1ul_10× DNA loading buffer + molecular grade water to make final volume of 10ul.                         
-10.	Load the mixtures and RNA ladder slowly into the slots. Avoid making bubbles!                               
-11.	Attach the electrical leads so that RNA can move toward the anode.                                
-12.	Apply a voltage of 100 V for approximately 35 minutes and then visualizing by UV trans illumination                                  
-## Visualizing by UV trans-illumination
+**Prepare the gel**                                
+                                                     
+1.	Add 1.0% w/v agarose to 1× TAE buffer. e.g. 0.5 g in 50 mL. 
+                                               
+2.	Add 1.0% v/v Clorox® bleach, e.g. 500 μL in 50 mL, and incubate at room temperature for 5 minutes, with occasional swirling     
+                                        
+3.	Heat the suspension to melt the agarose (10 sec intervals with swirling) until all the agarose dissolves).           
+                                            
+4.	Allow solution to cool to about 50C (i.e. you can touch it for a couple seconds without discomfort)  
+                                             
+5.	Adding ethidium bromide to a final concentration of 0.5 μg/mL. e.g. 25ug in 50ml. Swirl thoroughly.     
+                                              
+6.	Pour solution into gel mold and allow the ‘bleach gel’ to solidify (about 30min in room temperature) 
+                                                                   
+7.	Position the gel into the gel electrophoresis tank. Avoid bubbles.   
+                                                  
+8.	Add enough 1× TAE buffer to cover the gel to a depth of about 5mm.  
+
+**Load and Run RNA Samples**   
+                                                                 
+9.	Mix the samples of RNA with DNA loading buffer:                                            
+    1ug RNA+1ul_10× DNA loading buffer + molecular grade water to make final volume of 10ul.
+                                                       
+10.	Load the mixtures and RNA ladder slowly into the slots. Avoid making bubbles! 
+                                                                         
+11.	Attach the electrical leads so that RNA can move toward the anode. 
+                                                          
+12.	Apply a voltage of 100 V for approximately 35 minutes and then visualizing by UV trans illumination   
+                                                      
+**Visualizing by UV trans-illumination**                                            
+                                                                
 13.	sdd
 
 
