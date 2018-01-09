@@ -1,30 +1,28 @@
 ---
-title: "ecdysteroid extraction"
-author: "Qinwen Xia"
-date: "1/8/2018"
-output: html_document
+title: "Informative title for protocol"
+author: "Your Name"
+date: "YYYY-MM-DD format"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+fontsize: 18pt
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+[Back](https://adnguyen.github.io/Hahn_lab_protocols/) to main page
 
-## R Markdown
+# General info and notes before starting 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# Reagents 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+* list1
+* list 2
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+# Protocol
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+1. load gel
+2. run gel
