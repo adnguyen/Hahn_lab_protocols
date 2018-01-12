@@ -1,0 +1,28 @@
+---
+title: "Informative title for protocol"
+author: "Your Name"
+date: "YYYY-MM-DD format"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+fontsize: 18pt
+---
+
+[Back](https://adnguyen.github.io/Hahn_lab_protocols/) to main page
+
+# General info and notes before starting 
+
+# Reagents 
+
+* list1
+* list 2
+
+
+# Protocol
+
+1. load gel
+2. run gel
