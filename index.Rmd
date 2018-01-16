@@ -18,4 +18,5 @@ List of protocols:
 * [Ecdysteroid Extraction](2018-01-08_ecdysteroid_extraction.html)
 * [Gene expression experiments](2018-01-09_Chao_gxp_experiments.html)
 * [Protein expression experiments](2018-01-09_protein_expression_experiments.html)
+* [Rhagoletis related protocols](2018-01-16_Rhagoletis_protocols.html)
 
