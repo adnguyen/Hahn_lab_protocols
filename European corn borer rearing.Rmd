@@ -1,9 +1,30 @@
 ---
 title: "2018-01-17_European corn borer rearing"
 author: "Qinwen Xia"
-date: "1/17/2018"
-output: html_document
+date: "2018-01-17"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+fontsize: 18pt
 ---
+
+[Back](https://adnguyen.github.io/Hahn_lab_protocols/) to main page
+
+# General info and notes before starting 
+
+# Reagents 
+
+* list1
+* list 2
+
+
+# Protocol
+
+
 
 **Colony:**
 
