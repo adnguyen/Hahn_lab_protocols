@@ -1,0 +1,43 @@
+---
+title: "European corn borer rearing"
+author: "Qinwen Xia"
+date: "1/17/2018"
+output: html_document
+---
+
+Colony:
+We have two strains of ECB in Hahn lab: BE (bivoltine E-strain) and UZ (univoltine Z-strain)
+1)	Adults: Cages for adults are kept in fly rooms. Separate rooms for each strain. 
+              Feed with water 
+2)	Egg: lay on wax paper. Collect eggs daily and store in containers. 
+3)	Larvae: feed on standard artificial diet for ECB larvae (Southland Products, Lake Village, AR, USA)
+4)	Pupae 
+ 
+Experimental rearing:
+1)	Diapause induction
+12:12 L:D and 23 °C 
+
+2)	Diapause termination
+16:8 L:D and 26 °C 
+After 46 days in diapause induction condition, transfer diapausing larvae into diapause termination condition. 
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
