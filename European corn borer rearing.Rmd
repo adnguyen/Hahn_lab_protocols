@@ -5,21 +5,30 @@ date: "1/17/2018"
 output: html_document
 ---
 
-Colony:
+**Colony:**
+
 We have two strains of ECB in Hahn lab: BE (bivoltine E-strain) and UZ (univoltine Z-strain)
+
 1)	Adults: Cages for adults are kept in fly rooms. Separate rooms for each strain. 
               Feed with water 
+              
 2)	Egg: lay on wax paper. Collect eggs daily and store in containers. 
+
 3)	Larvae: feed on standard artificial diet for ECB larvae (Southland Products, Lake Village, AR, USA)
+
 4)	Pupae 
  
-Experimental rearing:
+**Experimental rearing:**
+
 1)	Diapause induction
-12:12 L:D and 23 °C 
+
+    12:12 L:D and 23 °C 
 
 2)	Diapause termination
-16:8 L:D and 26 °C 
-After 46 days in diapause induction condition, transfer diapausing larvae into diapause termination condition. 
+
+    16:8 L:D and 26 °C 
+
+    After 46 days in diapause induction condition, transfer diapausing larvae into diapause termination      condition. 
 
 
 ## R Markdown
