@@ -14,11 +14,22 @@ fontsize: 18pt
 
 # General info and notes before starting 
 
-# Reagents 
+## natural history
+
+# Lab Rearing
+
+
+# Trikinetics
+
+## background  
+
+wehn would we use this? what is it? 
+
+### Reagents 
 
 * list1
 * list 2
 
 
-# Protocol
+### Protocol
 
