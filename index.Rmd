@@ -18,5 +18,6 @@ List of protocols:
 * [Ecdysteroid Extraction](2018-01-08_ecdysteroid_extraction.html)
 * [Gene expression experiments](2018-01-09_Chao_gxp_experiments.html)
 * [Clancy's RNA Isolation](2018_1_22_CS_RNAIsolation.html)
+* [Clancy's protein isolation](2018_1_22_CS_Protein_Isolation.html)
 * [Rhagoletis related protocols](2018-01-16_Rhagoletis_protocols.html)
 * [European corn borer rearing](European_corn_borer_rearing.html)

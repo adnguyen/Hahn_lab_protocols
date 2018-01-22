@@ -1,0 +1,45 @@
+---
+title: "Trireagent protein isolation"
+author: "Clancy A Short"
+date: "2018-01-22"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+fontsize: 18pt
+---
+
+[Back](https://adnguyen.github.io/Hahn_lab_protocols/) to main page
+
+# General info and notes before starting 
+
+Notes: Most of this protocol should be carried out on ice, unless otherwise indicated, to prevent Protein denaturation.
+Turn on the centrifuge before you get started so it can cool down.
+
+# Reagents 
+
+* [Tri-Reagent](https://www.thermofisher.com/order/catalog/product/AM9738?gclid=EAIaIQobChMIpO3z67vs2AIVECWBCh29KgNJEAYYASABEgJEgvD_BwE&ef_id=V1CvVAAABCo68YW0:20180122210205:s) (Invitrogen - AM9738)
+* [guanidine hydrochloride](https://www.sigmaaldrich.com/catalog/product/sigma/g3272?lang=en&region=US) (Sigma - G3272-25G)
+* Molecular grade ethanol
+* Molecular grade isopropanol
+* Molecular grade water
+* 95% Ethanol (Histology grade)
+* Lysis Buffer Solution (1.169g EDTA,1.636g NaCl,10g SDS, 2.4228 Tris, DI water to reach 200mL)
+
+# Protocol
+
+1. See 1-4 of TriReagent RNA Isolation protocol. You will be using the pink bottom layer. Cut values in half if using 500 µL of TriReagent.
+2. Thaw samples on ice. 
+3. Discard any remaining aqueous (colorless) phase.
+4. Add 0.3 mL of 100% ethanol to the tube. Invert a few times and incubate at room temp for 2-3 min.
+5. Centrifuge at 2000 x g for 5 min at 4°C to sediment DNA, then transfer pink supernatant to new tube. Discard the tube with the DNA pellet.
+6. Precipitate protein by adding 1 ml of isopropanol, giving the tube a quick shake, and incubating for 10 min at room temp.
+7.	Centrifuge at 12000 rcf for 10 min at 4°C. Remove supernatant and discard as Trizol waste (toxic).
+8. Wash pellet in 2mL of 0.3M guanidine hydrochloride 95% ethanol solution, let stand 20 min at room temp, then centrifuge at 7500 x g for 5 min at 4°C. Repeat this step 2 more times. (In this wash solution, the pellet should be stable for 1 yr @ -20°C.)
+9. Vortex 3 sec in 1 mL 100% ethanol, let sit for 20 min at room temp. 
+10. Centrifuge at 7500 x g for 5 min at 4°C, remove supernatant and discard, let air dry 5 min. Dissolve pellet in Lysis buffer (amount depends on pellet size and desired concentration). To dissolve pellet, heat @ 65°C, occasionally vortexing, until dissolved.
+	
+	Congratulations, you've (hopefully) successfully isolated PRotein. You can now use if for applications like SDS-PAGE or Western Blotting.
