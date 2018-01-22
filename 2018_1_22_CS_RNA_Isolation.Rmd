@@ -1,0 +1,47 @@
+---
+title: "Trireagent total RNA isolation"
+author: "Clancy A Short"
+date: "2018-01-22"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+fontsize: 18pt
+---
+
+[Back](https://adnguyen.github.io/Hahn_lab_protocols/) to main page
+
+# General info and notes before starting 
+
+Notes: Most of this protocol should be carried out on ice, unless otherwise indicated, to prevent RNA degradiation. During stable steps, your RNA should be pretty stable. These might be good times to go eat lunch or check your email.
+
+# Reagents 
+
+* [Tri-Reagent](https://www.thermofisher.com/order/catalog/product/AM9738?gclid=EAIaIQobChMIpO3z67vs2AIVECWBCh29KgNJEAYYASABEgJEgvD_BwE&ef_id=V1CvVAAABCo68YW0:20180122210205:s) (Invitrogen - AM9738)
+* [BCP](https://www.sigmaaldrich.com/catalog/product/sigma/b9673?lang=en&region=US) (Sigma - B9673-200ML)
+* Molecular grade ethanol
+* Molecular grade isopropanol
+* Molecular grade water
+* [THE RNA storage solution](https://www.thermofisher.com/order/catalog/product/AM7000) (Invitrogen - AM7000)
+
+
+# Protocol
+
+1. Homogenize tissue samples (very fresh or frozen) in 1mL TRI Reagent solution.
+2. Incubate the homogenate for 5 min at room temp (can be stored at -70°C).
+3. Add 200 μL of BCP, mix well (5-15 sec), and incubate at room temp for 5–15 min.
+4. Centrifuge at 12,000 x g for 10–15 min at 4°C, then transfer the aqueous phase (colorless top layer) to a fresh tube. If you want protein, save the pink bottom layer @ -80°C, and see Tri-Reagent Protein Isolation.
+5. Add 500 μL of isopropanol, vortex for 5–10 sec, and incubate at room temp for 5–10 min. 
+(stable step)
+6. Centrifuge at 12,000 x g for 8 min at 4°C, and discard the supernatant (don’t discard your pellet!).
+7. Add 1 mL of 75% ethanol, allow to sit for 5-10 min at room temp. 
+(stable step)
+8. Centrifuge at 7,500 x g for 5 min at 4°C, remove the ethanol, and
+briefly air dry the RNA pellet (3-5 min) (pipette off some ethanol).
+9. Dissolve in ~40 μL THE RNA storage solution, heat to 50°C until dissolved.
+10.	Use nanodrop to quant your RNA and get a rough idea of purity. A260/A280 ratio of 1.8–2.2 is a sign your RNA is probably pure enough, but you should really check with the RNA quality assessment protocol.
+	
+	Congratulations, you've (hopefully) successfully isolated RNA. You can now use if for applications like qRT-PCR, RNA-seq, or to impress your friends.
