@@ -15,10 +15,22 @@ fontsize: 18pt
 # General info and notes before starting 
 
 ## natural history
+### Origin  
+Rhagoletis pomonella, commonly known as the apply maggot fly is native to North America. Primitively, they ate hawthorn (Crataegus) berries. When apples were introduced to North America in the 17th century, Rhagoletis began to use apples as a host. The large size of an apple reduces the ability of parasitoid wasps penetrating the maggots. However, apples ripen earlier in the season, beginning in early summer. 
 
-# Lab Rearing
+### Physical Description 
+
+### Emergence Habits 
+Beginning in early summer, adult Rhagoletis begin emerging. After about eight to ten days, females use their ovipositor to inject her eggs into the fruit. Once the eggs hatch, the maggots remain in the fruit. They continue to develop until the fruit falls from the tree. 
 
 # Field Collections 
+## Locations 
+## dates 
+# Lab Rearing
+## Collecting 
+## Weighing and Purging 
+## Respirometry 
+## Treatment 
 
 # Lab Processing 
 
@@ -35,4 +47,4 @@ wehn would we use this? what is it?
 
 
 ### Protocol
-
+# References 
