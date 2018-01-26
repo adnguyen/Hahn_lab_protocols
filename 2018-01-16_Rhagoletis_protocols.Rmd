@@ -23,26 +23,35 @@ Rhagoletis pomonella, commonly known as the apply maggot fly is native to North 
 ### Emergence Habits 
 Beginning in early summer, adult Rhagoletis begin emerging. After about eight to ten days, females use their ovipositor to inject her eggs into the fruit. Once the eggs hatch, the maggots remain in the fruit. They continue to develop until the fruit falls from the tree. 
 
-# Field Collections 
-## Locations 
-## dates 
-# Lab Rearing
-## Collecting 
+# Rhagoletis Project Workflow
+
+## Field Collections
+
+### Locations 
+### dates 
+
+## Collecting larvae and pupae 
 ## Weighing and Purging 
+### Reagents 
+*
+*
+### Protocol 
 ## Respirometry 
+### Background 
+### Reagents 
+### Protocol
 ## Treatment 
 
-# Lab Processing 
 
 # Trikinetics
 
 ## background  
+Trinkinetics systems measure the circadian rhythms and sleeping patterns of various types of small animals. The animal is placed in a tube where infared beam arrays continuously monitor the animal's movement.  
 
-wehn would we use this? what is it? 
 
 ### Reagents 
 
-* list1
+* LAM25 Locomotor Activity Monitor 
 * list 2
 
 
