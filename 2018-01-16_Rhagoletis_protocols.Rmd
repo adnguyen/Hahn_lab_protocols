@@ -31,18 +31,55 @@ Beginning in early summer, adult Rhagoletis begin emerging. After about eight to
 ### dates 
 
 ## Collecting larvae and pupae
+
 ### Reagents 
+
 * Petri Dish, Stackable Lid [#FB0875712](https://www.fishersci.com/shop/products/fisherbrand-petri-dishes-clear-lid-raised-ridge-100-x-15mm/fb0875712)
 * Vermiculite [#S-15280](https://www.uline.com/Product/Detail/S-15280/Vermiculite/Vermiculite-Grade-1-4-Cu-Ft-Bag)
 * [KCL Solution (350g/L)](https://www.thermofisher.com/order/catalog/product/AM9640G)
 
+### Protocol 
+
+#### Prepare tubes for holding fruit with maggots 
+1. Put the metal mesh into tubs, and pour the
+fruits onto the metal mesh
+    * 1-2 layers of fruit 
+    * Use paper towels to clean up juices at the bottom of the tubes as the fruit begins to rot. 
+2. Label tubes by site and host of fruit. 
+3. Once larvae/pupae begin to exit the fruit, remove the metal mesh from the tub. 
+4. Pick up the larvae/pupae gently with your fingers or forcepts, and place in a petri dish 
+* less than 100 per petri dish
+5. Place the fruit and metal mesh back into the tubes. 
+6. Split the larvae/pupae into several other petri dishes containing wet vermiculite. 
+    * less than 100 per petri dish
+    * To prepare vermiculite, add water until all of it is wet. Water should not be dripping from dish.
+7. Label petri dish with: site, race, collection date of larvae/pupae, fridge date, number specimens per dish. 
+    * Fridge date is 13 days after collection date. 
+8. Seal each petri dish with tape, and place dishes into a container with saturated potassium chloride (KCl) solution to keep the humidity (85%).
+    * KCl Solution: 1L water with 350g of KCl
+   
 ## Weighing and Purging 
+On days 10 and 14, the mass of each pupae will be taken. Then, each syringe will be purged. During this process, air is circulated through drierite and water with a pH of 4.0, which removes the carbon dioxide present. This allows the amount of carbon dioxide produced by each pupae to be measured 24 later. 
+
 ### Reagents 
 * Mettler Toledo Analytical Balance [model no. xp6](https://www.mt.com/us/en/home/products/Laboratory_Weighing_Solutions/Analytical/Excellence/XPE_Analytical_Balance.html)
 * Air Tight Syringes [#14-817-29](https://www.fishersci.com/shop/products/airtite-all-plastic-norm-ject-syringes-5ml-6ml-luer-lock-sterile-graduations-0-2cc/1481729)
 * [Drierite](https://secure.drierite.com/catalog3/page5.cfm?activeMenu=1)
-*
+
 ### Protocol 
+#### Weighing 
+1. 10 days after the collection date, remove pupae from the vermiculite. Place in a clean petri dish. 
+    * Used dampened paper towel to clean all vermicute off of the pupae. 
+2. Weigh pupae using an analytical balance to the nearest 0.001 mg. 
+3. Place each pupae into separate air tight syringes. 
+    * Each syringe should have a colored piece of tape and number. 
+4. Record the number, tape color, site, and mass for each pupae. 
+
+#### Purging 
+1. Set up purging machine 
+  * Plug in pump, which is attached to tubes running through drierite and into an erlenmeyer flask containing H20 with a pH of 4.0. 
+      
+
 ## Respirometry 
 ### Background 
 ### Reagents 
