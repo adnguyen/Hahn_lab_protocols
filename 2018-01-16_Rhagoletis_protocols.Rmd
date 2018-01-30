@@ -48,7 +48,7 @@ fruits onto the metal mesh
 2. Label tubes by site and host of fruit. 
 3. Once larvae/pupae begin to exit the fruit, remove the metal mesh from the tub. 
 4. Pick up the larvae/pupae gently with your fingers or forcepts, and place in a petri dish 
-* less than 100 per petri dish
+    * less than 100 per petri dish
 5. Place the fruit and metal mesh back into the tubes. 
 6. Split the larvae/pupae into several other petri dishes containing wet vermiculite. 
     * less than 100 per petri dish
@@ -64,6 +64,7 @@ On days 10 and 14, the mass of each pupae will be taken. Then, each syringe will
 ### Reagents 
 * Mettler Toledo Analytical Balance [model no. xp6](https://www.mt.com/us/en/home/products/Laboratory_Weighing_Solutions/Analytical/Excellence/XPE_Analytical_Balance.html)
 * Air Tight Syringes [#14-817-29](https://www.fishersci.com/shop/products/airtite-all-plastic-norm-ject-syringes-5ml-6ml-luer-lock-sterile-graduations-0-2cc/1481729)
+* Three way leur Valve [#450-361](http://www.utahmed.com/oemstopcocks.htm#)
 * [Drierite](https://secure.drierite.com/catalog3/page5.cfm?activeMenu=1)
 
 ### Protocol 
@@ -73,11 +74,29 @@ On days 10 and 14, the mass of each pupae will be taken. Then, each syringe will
 2. Weigh pupae using an analytical balance to the nearest 0.001 mg. 
 3. Place each pupae into separate air tight syringes. 
     * Each syringe should have a colored piece of tape and number. 
-4. Record the number, tape color, site, and mass for each pupae. 
+4. Twist valve onto syringe.  
+    * Make sure the knob with denoted with (off) is in the upward postion. This ensures the pupae will not fall out. 
+    
+5. Record the number, tape color, site, and mass for each pupae. 
+Note: Four blanks should be included in each cohort.
 
 #### Purging 
-1. Set up purging machine 
-  * Plug in pump, which is attached to tubes running through drierite and into an erlenmeyer flask containing H20 with a pH of 4.0. 
+
+**Setup**  
+* A pump is attached to tubes which run through drierite and into an erlenmeyer flask containing H20 with a pH of 4.0. There are two valves that create a continuous flow of air through the setup. Another tube is used to add clean air into the syringes containing the pupae. 
+
+1. Plug in pump. 
+
+2. Turn the two valves 90 degrees so the closed knob, denoted with (off), is in the downward position. 
+      * This will allow continuous clean air flow through the drierite and acidic water.
+      * Make sure pupae is in a location where it will not be smashed when valve is rotated. 
+    
+3. Screw the valve to the end of the suction tube. 
+4. Rotate the valve 90 degrees counterclockwise. Wait a few seconds for the air to be cleaned. Then, rotate an additional 180 degrees counterclockwise. 
+5. Inject 1ml of air into the syringe. 
+6. Rotate valve 90 degrees clockwise and unscrew from tube. 
+* This process should be repeated for all of the pupae in the cohort. Record the first and last purging times. 
+  
       
 
 ## Respirometry 
