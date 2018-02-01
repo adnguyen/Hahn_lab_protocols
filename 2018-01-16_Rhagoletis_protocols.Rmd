@@ -83,7 +83,7 @@ Note: Four blanks should be included in each cohort.
 #### Purging 
 
 **Setup**  
-* A pump is attached to tubes which run through drierite and into an erlenmeyer flask containing H20 with a pH of 4.0. There are two valves that create a continuous flow of air through the setup. Another tube is used to add clean air into the syringes containing the pupae. 
+A pump is attached to tubes which run through drierite and into an erlenmeyer flask containing H20 with a pH of 4.0. There are two valves that create a continuous flow of air through the setup. Another tube is used to add clean air into the syringes containing the pupae. 
 
 1. Plug in pump. 
 
@@ -100,9 +100,41 @@ Note: Four blanks should be included in each cohort.
       
 
 ## Respirometry 
-### Background 
+
+### Background
+
+Respirometry measures the metabolic rate of an organism by measuring CO2 production.
+
 ### Reagents 
+* [Promethion Software (ExpeData)](https://www.sablesys.com/products/promethion-line/promethion-software/)
+* SS-3 Sub-sampler [SS-4 Model](https://www.sablesys.com/products/classic-line/ss-4-sub-sampler-pump/)
+* [Licor 6262](https://www.licor.com/documents/umazybbyhzalz840pf63a1137qz7ofib)
+* [Licor 7000](https://www.licor.com/env/products/gas_analysis/LI-7000/)
+* [MFC-2 Mass Flow Controller](https://www.sablesys.com/products/classic-line/mfc-2-mass-flow-controller/)
+* UI-2 Data Acquisition Interface [UI-3 Model](https://www.sablesys.com/products/classic-line/ui-3-data-acquisition-interface-2/)
+
 ### Protocol
+
+**Setup**
+
+ExpeData software is installed into a computer. Tubes run through the setup, which allows for complete air circulation. A pump is connected to drierite and aspirite columns. These chemicals absorb the CO2 in the air. Then, air is circulated through a tube of magnesium to remove any H2O present. Two mass flow controllers set the flow rate. Two licor machines (6262 and 7000) are used to inject the air. (* need to come back)
+
+1. Turn on pump. Wait approximately five minutes to remove the residual CO2. 
+2. Label which color the licors correspond too. 
+    * Ex: Red syringes are injected into Licor 6262 and orange into Licor 7000. 
+    * Use the same licor and color setup for respirometry day 15. 
+3. Screw syringe into the valve connected to the proper licor. 
+4. With the closed portion of the valve facing downward, twist the knob clockwise 270 degrees. 
+    *Off should be on the right-hand side. This will allow no air to escape from the syringe. 
+5. Inject the 1 ml of air. 
+6. Turn the knob clockwise 90 degrees, returning to its original position.
+7. Unscrew the syringe and place aside.
+8. Place a marker in between each sample. 
+    * Allow the CO2 curves to level out before placing marker. 
+9. Repeat for the remaining syringes. 
+* Steps 3-7 should be completed for both licors simaltaneously. Two syringes should be inserted, injected, and removed one after the other before inserting a marker. This will be more time efficient.  
+    
+  
 
 ## Treatment 
 ### Reagents
