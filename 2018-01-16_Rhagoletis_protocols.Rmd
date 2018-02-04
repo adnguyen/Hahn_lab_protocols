@@ -139,9 +139,23 @@ ExpeData software is installed into a computer. Tubes run through the setup, whi
 ## Treatment 
 ### Reagents
 * 96 Well Clear Flat Bottom Polystyrene not treated Microplates [Costar#3370](https://catalog2.corning.com/LifeSciences/en-US/Shopping/ProductDetails.aspx?productid=3370(Lifesciences))
+* Conical Screw Cap Microcentrifuge Tubes (2ml) [#02-681-344](https://www.fishersci.com/shop/products/fisherbrand-nonsterile-microcentrifuge-tubes-threaded-end-12/p-194198) 
 
 ### Protocol 
+1. Place each each pupae into its randomly assigned cohort treatment. 
+    * This should be done immediatly after day 15 respirometry is performed. 
+* RT (room temperature) 
+    * Pupea is placed in assigned wells of microplates.
+    * The microplates are kept in approximately 23 degree celcius conditions. They are placed in tubs containing KCL. 
+* SO (stimulated overwinter)
+    * Pupea is placed in assigned wells of microplates.
+    * Microplates are kept in a tub in the fridge. 
+  * Each plate should be labeled with the day of treatment, type of treatment, collection date, cohort day, and cohort date. 
 
+* GC (genetic control)
+    * Pupea is placed in microcentrifuge tube. Its unique individual id should be written on the centrifuge tube cap. 
+    * Placed in -79 degree Celcius freezer. 
+    
 # Trikinetics
 
 ## background  
