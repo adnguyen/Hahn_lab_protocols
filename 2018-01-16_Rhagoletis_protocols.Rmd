@@ -75,8 +75,10 @@ On days 10 and 14, the mass of each pupae will be taken. Then, each syringe will
 3. Place each pupae into separate air tight syringes. 
     * Each syringe should have a colored piece of tape and number. 
 4. Twist valve onto syringe.  
-    * Make sure the knob with denoted with (off) is in the upward postion. This ensures the pupae will not fall out. 
+    * Make sure the knob denoted with (off) is facing away from the syringe. This ensures the pupae will not fall out. 
     
+![](/Users/andrewnguyen/Desktop/IMG_9721.jpg)
+
 5. Record the number, tape color, site, and mass for each pupae. 
 Note: Four blanks should be included in each cohort.
 
@@ -84,6 +86,8 @@ Note: Four blanks should be included in each cohort.
 
 **Setup**  
 A pump is attached to tubes which run through drierite and into an erlenmeyer flask containing H20 with a pH of 4.0. There are two valves that create a continuous flow of air through the setup. Another tube is used to add clean air into the syringes containing the pupae. 
+![](/Users/andrewnguyen/Desktop/IMG_9719.PNG)
+Image: Purging setup 
 
 1. Plug in pump. 
 
@@ -113,11 +117,14 @@ Respirometry measures the metabolic rate of an organism by measuring CO2 product
 * [MFC-2 Mass Flow Controller](https://www.sablesys.com/products/classic-line/mfc-2-mass-flow-controller/)
 * UI-2 Data Acquisition Interface [UI-3 Model](https://www.sablesys.com/products/classic-line/ui-3-data-acquisition-interface-2/)
 
-### Protocol
 
 **Setup**
 
 ExpeData software is installed into a computer. Tubes run through the setup, which allows for complete air circulation. A pump is connected to drierite and aspirite columns. These chemicals absorb the CO2 in the air. Then, air is circulated through a tube of magnesium to remove any H2O present. Two mass flow controllers set the flow rate. Two licor machines (6262 and 7000) are used to inject the air. (* need to come back)
+![](/Users/andrewnguyen/Desktop/IMG_9703.jpg)
+Image: Licor 6262 (top) and Licor 7000 (bottom)
+
+### Protocol
 
 1. Turn on pump. Wait approximately five minutes to remove the residual CO2. 
 2. Label which color the licors correspond too. 
@@ -140,6 +147,7 @@ ExpeData software is installed into a computer. Tubes run through the setup, whi
 ### Reagents
 * 96 Well Clear Flat Bottom Polystyrene not treated Microplates [Costar#3370](https://catalog2.corning.com/LifeSciences/en-US/Shopping/ProductDetails.aspx?productid=3370(Lifesciences))
 * Conical Screw Cap Microcentrifuge Tubes (2ml) [#02-681-344](https://www.fishersci.com/shop/products/fisherbrand-nonsterile-microcentrifuge-tubes-threaded-end-12/p-194198) 
+* Microcentrifuge Tubes caps [#02-681-368](https://www.fishersci.com/shop/products/fisherbrand-colored-screw-caps-15/p-194098)
 
 ### Protocol 
 1. Place each each pupae into its randomly assigned cohort treatment. 
@@ -151,16 +159,20 @@ ExpeData software is installed into a computer. Tubes run through the setup, whi
     * Pupea is placed in assigned wells of microplates.
     * Microplates are kept in a tub in the fridge. 
   * Each plate should be labeled with the day of treatment, type of treatment, collection date, cohort day, and cohort date. 
-
+![](/Users/andrewnguyen/Desktop/IMG_9716.jpg)
+Image:A example of a labeled microplate 
 * GC (genetic control)
     * Pupea is placed in microcentrifuge tube. Its unique individual id should be written on the centrifuge tube cap. 
     * Placed in -79 degree Celcius freezer. 
-    
+![](/Users/andrewnguyen/Desktop/IMG_9724.jpg)
+Image: This is the setup of RT cohorts and SO cohorts once removed from the fridge. The tubs are organized by apple, hawthorn, skipped cohorts, and stimulated overwinter.
+
 # Trikinetics
 
 ## background  
 Trinkinetics systems measure the circadian rhythms and sleeping patterns of various types of small animals. The animal is placed in a tube where infared beam arrays continuously monitor the animal's movement.  
-
+![](/Users/andrewnguyen/Desktop/IMG_9662.jpg)
+Image: one of the trinketics monitors 
 
 ### Reagents 
 * Conical Screw Cap Microcentrifuge Tubes (2ml) [#02-681-344](https://www.fishersci.com/shop/products/fisherbrand-nonsterile-microcentrifuge-tubes-threaded-end-12/p-194198)  
