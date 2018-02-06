@@ -167,6 +167,45 @@ Image:A example of a labeled microplate
 ![](/Users/andrewnguyen/Desktop/IMG_9724.jpg)
 Image: This is the setup of RT cohorts and SO cohorts once removed from the fridge. The tubs are organized by apple, hawthorn, skipped cohorts, and stimulated overwinter.
 
+## Eclosions 
+### Background
+* Once the fly or parasitoid wasp has completed development, it will emerge from its pupae covering. At this point the adult needs to be transfered from the microplated and into tubes.
+
+## Reagents 
+* 15 ml Polystyrene Conical Tube [#352099](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-polystyrene-rcf-rating-1800-50-pk-500-cs/0552790)
+
+
+
+### Protocol 
+**Checking for Eclosions**
+
+1. Check daily to see if an organism has emerged from a pupae shell. 
+2. If there is an eclosion, make a table consisting of:
+    * Host, cohort day, well ID, type of organism,   trikinetics, and trikentics entry time. 
+      * the trikenetics and entry time will be recorded after transfer of organism. 
+    
+**Prepare the tubes with food and water** 
+
+  1. Take a cotton ball and split it in half. 
+  2. Attach a tiny piece of paper (< cm in length) to the cotton using tape. 
+  3. Place a few drops of the food onto the paper.
+      * Use enough food to fill paper without getting food onto the cotton. 
+  4. Insert the cotton with food into the open tube. 
+  5. Taking a conical tube, fill it up completely with water. 
+  6. Place a small piece of cotton at the top of the tube. 
+      * Make sure the cotton is wet but will not allow water to escape. 
+  7. Insert water tube into the other half of cotton ball. Place into other end of open tube. 
+  8. Using a piece of tape, label the tube with the individual id of the organism.
+  
+**Tranfer of organism**
+
+1. Place microplate and prepared tube into fly contraption. 
+    * It's beneficial to to flip over the microplate top, and remove one side of the food. 
+2. Using a bendable tube with cut pipette tips on each side, place mouth on one end of tube. Place the other end of tube over the organism and inhale. 
+    * Caution: Inhaling with too much force could lead to swallowing the organism. It is recommended to place a piece of mesh material around the mouth tip.  
+3. Exhale, moving the organism into the prepared tube. 
+4. Close the tube opening with the food or water, and remove from contraption. 
+
 # Trikinetics
 
 ## background  
