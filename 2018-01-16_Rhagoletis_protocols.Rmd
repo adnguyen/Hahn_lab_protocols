@@ -143,7 +143,7 @@ Image: Licor 6262 (top) and Licor 7000 (bottom)
     
   
 
-## Treatment 
+## Treatments 
 ### Reagents
 * 96 Well Clear Flat Bottom Polystyrene not treated Microplates [Costar#3370](https://catalog2.corning.com/LifeSciences/en-US/Shopping/ProductDetails.aspx?productid=3370(Lifesciences))
 * Conical Screw Cap Microcentrifuge Tubes (2ml) [#02-681-344](https://www.fishersci.com/shop/products/fisherbrand-nonsterile-microcentrifuge-tubes-threaded-end-12/p-194198) 
@@ -169,11 +169,13 @@ Image: This is the setup of RT cohorts and SO cohorts once removed from the frid
 
 ## Eclosions 
 ### Background
-* Once the fly or parasitoid wasp has completed development, it will emerge from its pupae covering. At this point the adult needs to be transfered from the microplated and into tubes.
+* Once the fly or parasitoid wasp has completed development, it will emerge from its pupae covering. At this point the adult needs to be transferred from the microplate into a tube containg food and water. 
 
 ## Reagents 
+* Fly handling cage
+    * Its a clear plastic box. One side is composed of mesh material, allowing for ventilation. The front side contains an open circle surrounded by netting. 
 * 15 ml Polystyrene Conical Tube [#352099](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-polystyrene-rcf-rating-1800-50-pk-500-cs/0552790)
-
+* Food (Combination of brown sugar and yeast)
 
 
 ### Protocol 
@@ -199,25 +201,34 @@ Image: This is the setup of RT cohorts and SO cohorts once removed from the frid
   
 **Tranfer of organism**
 
-1. Place microplate and prepared tube into fly contraption. 
-    * It's beneficial to to flip over the microplate top, and remove one side of the food. 
+1. Place microplate and prepared tube into fly handling cage. 
+    * It's beneficial to flip over the microplate top, and remove the cotton with the food.  
 2. Using a bendable tube with cut pipette tips on each side, place mouth on one end of tube. Place the other end of tube over the organism and inhale. 
     * Caution: Inhaling with too much force could lead to swallowing the organism. It is recommended to place a piece of mesh material around the mouth tip.  
 3. Exhale, moving the organism into the prepared tube. 
-4. Close the tube opening with the food or water, and remove from contraption. 
+4. Close the tube opening with the cotton, and remove from cage. 
 
 # Trikinetics
 
-## background  
-Trinkinetics systems measure the circadian rhythms and sleeping patterns of various types of small animals. The animal is placed in a tube where infared beam arrays continuously monitor the animal's movement.  
+## Background  
+Trinkinetics systems measure the circadian rhythms and sleeping patterns of various types of small animals. The animal is placed in a tube where infared beam arrays continuously monitor the animal's movement. 
+In this experiment, once a fly or wasp ecloses, they are placed into the trinkentics system. They will have continuous light source. Some remain there until death. Others are taken out after eight days, and placed into a Free Run Trikentics system. The same type of monitor is used to measure the organisms activity level. However, the free runs are placed in a dark room. The activity levels will be compared between the light-stimulated and free run trials. 
+
 ![](/Users/andrewnguyen/Desktop/IMG_9662.jpg)
-Image: one of the trinketics monitors 
+Image: One of the trinketics monitors in the light-stimulated room. 
 
 ### Reagents 
-* Conical Screw Cap Microcentrifuge Tubes (2ml) [#02-681-344](https://www.fishersci.com/shop/products/fisherbrand-nonsterile-microcentrifuge-tubes-threaded-end-12/p-194198)  
 * Locomotor Activity Monitor [LAM25](http://www.trikinetics.com/Downloads/TriKinetics%20Price%20List%208.2017.pdf)
 * 
 
 
 ### Protocol
+1. Place the tube containing the organism into one of the trinkentics positions. Record the position number, Individual ID, and time of entrance. 
+    * If more than one monitor is being used, the monitor number should also be noted. 
+2. Check daily for deaths. Change the food or water if necessary. 
+    * If organism dies, remove from the monitor. Place in microcentrifuge tube with the individual ID on the cap. Place into the gentic control freezer. 
+3. Transfer specific individuals into new free run monitor positions. 
+    * This should be done at night.
+    * The transferred individuals are prechosen based on their ecolosion date. (8 days)
+  
 # References 
