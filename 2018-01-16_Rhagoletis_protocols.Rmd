@@ -12,13 +12,18 @@ output:
 fontsize: 18pt
 ---
 
-# General info and notes before starting 
+# Objectives and Questions 
+Comparing diapause duration with circadian rhythum.
+
+
+
 
 ## natural history
 ### Origin  
-Rhagoletis pomonella, commonly known as the apply maggot fly is native to North America. Primitively, they ate hawthorn (Crataegus) berries. When apples were introduced to North America in the 17th century, Rhagoletis began to use apples as a host. The large size of an apple reduces the ability of parasitoid wasps penetrating the maggots. However, apples ripen earlier in the season, beginning in early summer. 
+Rhagoletis pomonella (Endopterygota:Tephritidae), commonly known as the apply maggot fly is native to North America. Primitively, they ate hawthorn (Crataegus) berries. When apples were introduced to North America in the 17th century, Rhagoletis began to use apples as a host. The large size of an apple reduces the ability of parasitoid wasps penetrating the maggots. However, apples ripen earlier in the season, beginning in early summer. 
 
 ### Physical Description 
+
 
 ### Emergence Habits 
 Beginning in early summer, adult Rhagoletis begin emerging. After about eight to ten days, females use their ovipositor to inject her eggs into the fruit. Once the eggs hatch, the maggots remain in the fruit. They continue to develop until the fruit falls from the tree. 
@@ -55,20 +60,22 @@ fruits onto the metal mesh
     * To prepare vermiculite, add water until all of it is wet. Water should not be dripping from dish.
 7. Label petri dish with: site, race, collection date of larvae/pupae, fridge date, number specimens per dish. 
     * Fridge date is 13 days after collection date. 
-8. Seal each petri dish with tape, and place dishes into a container with saturated potassium chloride (KCl) solution to keep the humidity (85%).
+8. Seal each petri dish with tape, and place dishes into a container with saturated potassium chloride (KCl) solution to stimulate humidity (85%).
     * KCl Solution: 1L water with 350g of KCl
    
 ## Weighing and Purging 
-On days 10 and 14, the mass of each pupae will be taken. Then, each syringe will be purged. During this process, air is circulated through drierite and water with a pH of 4.0, which removes the carbon dioxide present. This allows the amount of carbon dioxide produced by each pupae to be measured 24 later. 
+On days 10 and 14, the mass of each pupae will be taken. Then, each syringe will be purged. During this process, air is circulated through drierite and water with a pH of 4.0, which removes the carbon dioxide present. This allows the amount of carbon dioxide produced by each pupae to be measured approximately 24 hours later. 
 
-### Reagents 
+### Weighing 
+
+#### Reagents 
 * Mettler Toledo Analytical Balance [model no. xp6](https://www.mt.com/us/en/home/products/Laboratory_Weighing_Solutions/Analytical/Excellence/XPE_Analytical_Balance.html)
 * Air Tight Syringes [#14-817-29](https://www.fishersci.com/shop/products/airtite-all-plastic-norm-ject-syringes-5ml-6ml-luer-lock-sterile-graduations-0-2cc/1481729)
 * Three way leur Valve [#450-361](http://www.utahmed.com/oemstopcocks.htm#)
 * [Drierite](https://secure.drierite.com/catalog3/page5.cfm?activeMenu=1)
 
-### Protocol 
-#### Weighing 
+#### Protocol 
+ 
 1. 10 days after the collection date, remove pupae from the vermiculite. Place in a clean petri dish. 
     * Used dampened paper towel to clean all vermicute off of the pupae. 
 2. Weigh pupae using an analytical balance to the nearest 0.001 mg. 
@@ -76,19 +83,23 @@ On days 10 and 14, the mass of each pupae will be taken. Then, each syringe will
     * Each syringe should have a colored piece of tape and number. 
 4. Twist valve onto syringe.  
     * Make sure the knob denoted with (off) is facing away from the syringe. This ensures the pupae will not fall out. 
-    
-![](/Users/andrewnguyen/Desktop/IMG_9721.jpg)
-
 5. Record the number, tape color, site, and mass for each pupae. 
 Note: Four blanks should be included in each cohort.
 
-#### Purging 
+    
+![](/Users/andrewnguyen/Desktop/IMG_9721.jpg)
+
+Image: Example of syringe 
+
+### Purging 
 
 **Setup**  
-A pump is attached to tubes which run through drierite and into an erlenmeyer flask containing H20 with a pH of 4.0. There are two valves that create a continuous flow of air through the setup. Another tube is used to add clean air into the syringes containing the pupae. 
+A pump is attached to tubes which run through drierite and into an erlenmeyer flask containing H20 with a pH of 4.0. There are two valves that create a continuous flow of air through the setup. Another tube in the flask is used to inject clean air into the syringes containing the pupae. 
+
 ![](/Users/andrewnguyen/Desktop/IMG_9719.PNG)
 Image: Purging setup 
 
+#### Protocol 
 1. Plug in pump. 
 
 2. Turn the two valves 90 degrees so the closed knob, denoted with (off), is in the downward position. 
@@ -171,7 +182,7 @@ Image: This is the setup of RT cohorts and SO cohorts once removed from the frid
 ### Background
 * Once the fly or parasitoid wasp has completed development, it will emerge from its pupae covering. At this point the adult needs to be transferred from the microplate into a tube containg food and water. 
 
-## Reagents 
+### Reagents 
 * Fly handling cage
     * Its a clear plastic box. One side is composed of mesh material, allowing for ventilation. The front side contains an open circle surrounded by netting. 
 * 15 ml Polystyrene Conical Tube [#352099](https://www.fishersci.com/shop/products/falcon-15ml-conical-centrifuge-tubes-polystyrene-rcf-rating-1800-50-pk-500-cs/0552790)
@@ -212,7 +223,7 @@ Image: This is the setup of RT cohorts and SO cohorts once removed from the frid
 
 ## Background  
 Trinkinetics systems measure the circadian rhythms and sleeping patterns of various types of small animals. The animal is placed in a tube where infared beam arrays continuously monitor the animal's movement. 
-In this experiment, once a fly or wasp ecloses, they are placed into the trinkentics system. They will have continuous light source. Some remain there until death. Others are taken out after eight days, and placed into a Free Run Trikentics system. The same type of monitor is used to measure the organisms activity level. However, the free runs are placed in a dark room. The activity levels will be compared between the light-stimulated and free run trials. 
+In this experiment, once a fly or wasp ecloses, they are placed into the trinkentics system. They will be reared in 16 hours of light and 10 hours of dark increments. Some remain there until death. Others are taken out after eight days, and placed into a Free Run Trikentics system. The same type of monitor is used to measure the organisms activity level. However, the free runs are continuously kept in a dark room. The activity levels will be compared between the light-stimulated and free run trials. 
 
 ![](/Users/andrewnguyen/Desktop/IMG_9662.jpg)
 Image: One of the trinketics monitors in the light-stimulated room. 
