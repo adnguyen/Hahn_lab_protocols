@@ -32,12 +32,14 @@ We have two strains of ECB in Hahn lab: BE (bivoltine E-strain) and UZ (univolti
 
 1)	Adults: Cages for adults are kept in fly rooms. Separate rooms for each strain. 
               Feed with water 
+     https://user-images.githubusercontent.com/31771163/40731419-009f9898-63ff-11e8-94a4-787dd376d184.JPG
               
 2)	Egg: 
 
     lay on wax paper. Collect eggs daily and store in containers. 
     
     store at the fly room
+    https://user-images.githubusercontent.com/31771163/40731397-f04bf4e6-63fe-11e8-9e77-98b5c0f8e4d4.JPG
 
 3)	Larvae: 
 
@@ -60,6 +62,23 @@ We have two strains of ECB in Hahn lab: BE (bivoltine E-strain) and UZ (univolti
     16:8 L:D and 26 °C 
 
     After 46 days in diapause induction condition, transfer diapausing larvae into diapause termination      condition. 
+
+**Artificial diet**
+
+1) measure 930*2=1860ml water and boil it with kettle
+    https://user-images.githubusercontent.com/31771163/40731461-1c2a52d8-63ff-11e8-8cad-727bd963cc93.JPG
+    
+2) weigh 162*2=324g mix powder
+   https://user-images.githubusercontent.com/31771163/40731471-20f6a0c8-63ff-11e8-8346-ef1438c74b18.JPG
+   
+3) add boiled water into blender, and turn on the blender, then add mix powder and votex for 4 mins
+   https://user-images.githubusercontent.com/31771163/40731486-26bfbf26-63ff-11e8-8122-840f0e26dbe6.JPG
+   
+4) turn off blender and pour into containers
+   https://user-images.githubusercontent.com/31771163/40731495-2e523c64-63ff-11e8-9441-b4621d683be3.JPG
+   
+5) keep in friger after cool down
+ 
 
 
 ## R Markdown
