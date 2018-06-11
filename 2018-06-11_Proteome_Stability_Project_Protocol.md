@@ -27,12 +27,12 @@ fontsize: 18pt
 # Machines, Apparatus, & Instruments
 * Water Bath: LAUDA ECO Silver Immersion thermostat, Model ECO RE 1050 S  
 	* Catalog No. LCK 4918
-	* [Manual[http://www.lauda-brinkmann.com/downloads/manuals/Eco%20Silver.pdf]]
+	* [Manual](http://www.lauda-brinkmann.com/downloads/manuals/Eco%20Silver.pdf)
 * Thermocoupler: Omega HH506RA Multilogger Thermometer
 	* ![pic](https://github.com/HannahHChu/Notebooks/blob/master/Images/thermocooler3.JPG)
 	* Serial No. 05000121
-	* [Specs][https://www.omega.com/temperature/pdf/HH506A_HH506RA.pdf]
-	* [Manual][https://www.omega.com/manuals/manualpdf/M4079.pdf]
+	* [Specs](https://www.omega.com/temperature/pdf/HH506A_HH506RA.pdf)
+	* [Manual](https://www.omega.com/manuals/manualpdf/M4079.pdf)
 * Tube Set Up: half of a 50mL styrofoam falcon tube holder & 14 20mL Pyrex 9825 test tubes with screw caps
 
 
