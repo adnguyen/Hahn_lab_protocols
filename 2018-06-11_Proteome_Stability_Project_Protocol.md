@@ -35,8 +35,9 @@ fontsize: 18pt
 	* [Manual](https://www.omega.com/manuals/manualpdf/M4079.pdf)
 * Tube Set Up: half of a 50mL styrofoam falcon tube holder & 14 20mL Pyrex 9825 test tubes with screw caps
 
-
 # Protocol
 
-1. load gel
-2. run gel
+1. CTmax Slow Ramp
+	![slow](https://github.com/HannahHChu/Notebooks/blob/master/Images/CtmaxSlowRamp.png)
+2. CTmax Fast Ramp
+	![fast](https://github.com/HannahHChu/Notebooks/blob/master/Images/Ctmax%20fast%20ramp.png)
