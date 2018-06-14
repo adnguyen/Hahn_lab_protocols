@@ -1,5 +1,5 @@
 ---
-title: "Proteome Stability Project Protocol"
+title: "Thermal Hardiness Assays in D. melanogaster"
 author: "Hannah Chu"
 date: "2018-06-11"
 output:
@@ -38,6 +38,15 @@ fontsize: 18pt
 # Protocol
 
 1. CTmax Slow Ramp
-	![slow](https://github.com/HannahHChu/Notebooks/blob/master/Images/CtmaxSlowRamp.png)
+
+	* Using the WinTherm-Thermal Analytics Software, set parameters as below
+	* ![slow](https://github.com/HannahHChu/Notebooks/blob/master/Images/CtmaxSlowRamp.png)
+	
 2. CTmax Fast Ramp
+
+	* Using the WinTherm-Thermal Analytics Software, set parameters as below
 	![fast](https://github.com/HannahHChu/Notebooks/blob/master/Images/Ctmax%20fast%20ramp.png)
+	
+3. Static
+
+4. Hardening
