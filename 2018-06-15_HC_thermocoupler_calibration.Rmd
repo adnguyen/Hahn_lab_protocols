@@ -20,17 +20,17 @@ fontsize: 18pt
 # Materials
 
 * ExTech Thermocoupler Easyview 15
-  * [Manual](http://www.extech.com/resources/EA15_UM.pdf)
-  * [Website](http://www.extech.com/display/?id=14443)
-	* Catalog No. EA15
+    * [Manual](http://www.extech.com/resources/EA15_UM.pdf)
+    * [Website](http://www.extech.com/display/?id=14443)
+    * Catalog No. EA15
 * Omega Thermocoupler HH506RA
-  * [Manual](https://www.omega.com/manuals/manualpdf/M4079.pdf)
-  * [Website](https://www.omega.com/pptst/HH506A_HH506RA.html)
-	* Model No. HH506RA
+    * [Manual](https://www.omega.com/manuals/manualpdf/M4079.pdf)
+    * [Website](https://www.omega.com/pptst/HH506A_HH506RA.html)
+    * Model No. HH506RA
 * T1 and T2 thermocouple attachments (comes with thermocoupler)
 * Mercury Thermometer
-  * [Website](http://www.neobits.com/eisco_scientific_ph0469f_thermometer_mercury_p11350900.html?atc=gbp&gclid=Cj0KCQjwx43ZBRCeARIsANzpzb_vplV4C_pzdwSBYGAAuHqVh7oIiigpLnxfASpG72JXxoADP2YR1tIaApTKEALw_wcB)
-  * Item #11350900
+    * [Website](http://www.neobits.com/eisco_scientific_ph0469f_thermometer_mercury_p11350900.html?atc=gbp&gclid=Cj0KCQjwx43ZBRCeARIsANzpzb_vplV4C_pzdwSBYGAAuHqVh7oIiigpLnxfASpG72JXxoADP2YR1tIaApTKEALw_wcB)
+    * Item #11350900
 
 # Method
 1. Plug in T1 and T2 attachments into ExTech the Easyview 15 Thermocoupler.
