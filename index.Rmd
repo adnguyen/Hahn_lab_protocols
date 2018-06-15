@@ -1,5 +1,5 @@
 ---
-title: "Hahn lab protocols"
+title: "Hahn lab Protocols"
 output:
   prettydoc::html_pretty:
     theme: architect
