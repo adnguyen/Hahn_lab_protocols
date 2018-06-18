@@ -47,6 +47,9 @@ fontsize: 18pt
   * Vinyl Tubing: Watts Clear Vinyl Tubing 8mm OD x 5mm ID
     * [Buy](https://www.amazon.com/Clear-Vinyl-Tubing-ID-250/dp/B000H5WQXC)
     * Ref. No.: 443063/LSVEB20
+  * Pipette tip for mouthpiece: 20uL
+  * Pipette tip for Drosophila: 1000uL
+  * Note: Place [mesh](https://www.amazon.com/Mosquito-Barrier-Hunting-Netting-Protect/dp/B015ADBL4U/ref=sr_1_10?ie=UTF8&qid=1529090596&sr=8-10&keywords=mosquito+netting+fabric) in 1000uL pipette tip to prevent inhaling fly. 
   
 # Protocol
 
