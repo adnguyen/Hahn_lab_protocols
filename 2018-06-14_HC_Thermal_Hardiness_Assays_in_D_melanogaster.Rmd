@@ -16,10 +16,7 @@ fontsize: 18pt
 
 # General info and notes before starting 
 * There are 14 water bath tubes set up to examine 14 strains of drosophila:
-![wb](https://github.com/HannahHChu/Notebooks/blob/master/Images/water_bath_tubes5.JPG)
-
-* Place a white styrofoam board underneath the tube set up for better visibility. The overall setup is pictured below:
-* ![overall](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_7946.JPG)
+![wb](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8035.JPG)
 
 # Reagents 
 * N/A
@@ -27,14 +24,30 @@ fontsize: 18pt
 # Machines, Apparatus, & Instruments
 * Water Bath: LAUDA ECO Silver Immersion thermostat, Model ECO RE 1050 S  
 	* Catalog No. LCK 4918
+	* [Website](http://www.capitolscientific.com/LAUDA-LCK-4918-Model-ECO-RE-1050-S-Stainless-Steel-Refrigerated-Circulator-Bath-with-ECO-Silver-Th)
 	* [Manual](http://www.lauda-brinkmann.com/downloads/manuals/Eco%20Silver.pdf)
 * Thermocoupler: Omega HH506RA Multilogger Thermometer
 	* ![pic](https://github.com/HannahHChu/Notebooks/blob/master/Images/thermocooler3.JPG)
-	* Serial No. 05000121
+	* Model No. HH506RA
+	* [Website](https://www.omega.com/pptst/HH506A_HH506RA.html)
 	* [Specs](https://www.omega.com/temperature/pdf/HH506A_HH506RA.pdf)
 	* [Manual](https://www.omega.com/manuals/manualpdf/M4079.pdf)
-* Tube Set Up: half of a 50mL styrofoam falcon tube holder & 14 20mL Pyrex 9825 test tubes with screw caps
-
+* Glass Test tubes: Pyrex No. 9826
+  * Manufacturing No.: Corning, 9826-16, O.D. × L 16 mm × 100 mm
+  * [Website](https://www.sigmaaldrich.com/catalog/product/aldrich/cls982616?lang=en&region=US)
+* Test tube rack: Full-View Test Tube Rack, 13-16mm tubes, 50 Place
+  * Manufactoring No. H18911-0000
+  * [Website](https://www.supplymylab.com/Supplies/Racks/_/PIN-STYLE-TEST-TUBE-RACKS?=&gclid=CjwKCAjwsJ3ZBRBJEiwAtuvtlFGpJXjTFulK0gRzhGnNBXTrayx-hRXRtmuEZQ2NUpUmFCEtH8zjHRoCAGsQAvD_BwE)
+* Tube Set Up: Cut half of a styrofoam falcon tube rack and hot clue to plastic test tube rack
+  * [top view](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8076.JPG)
+  * [front view](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8077.JPG)
+  * [side view](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8078.JPG)
+* Aspirator Set up
+  * ![pic](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8079.JPG)
+  * Vinyl Tubing: Watts Clear Vinyl Tubing 8mm OD x 5mm ID
+    * [Buy](https://www.amazon.com/Clear-Vinyl-Tubing-ID-250/dp/B000H5WQXC)
+    * Ref. No.: 443063/LSVEB20
+  
 # Protocol
 
 1. CTmax Slow Ramp
@@ -45,7 +58,6 @@ fontsize: 18pt
 2. CTmax Fast Ramp
 
 	* Using the WinTherm-Thermal Analytics Software, set parameters as below
-	![fast](https://github.com/HannahHChu/Notebooks/blob/master/Images/Ctmax%20fast%20ramp.png)
 	
 3. Static
 
