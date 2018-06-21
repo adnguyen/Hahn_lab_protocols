@@ -198,7 +198,10 @@ Aspirator Set up
 | 38.3  		  | 1          | 0        | 2     |
 | 38.4  		  | 1          | 0        | 2     |
 | 38.5  		  | 200        | 0        | 2     |
-	
+
+1. Submerge apparatus into water bath.
+2. Press start on the WinTherm-Thermal Analytics Software and click OK to confirm.
+3. Check the flies once an hour for 2 hours. Once the temperature reaches 38.5ºC, observe fly knockdown. 	
 	
 ## 2. CTmax Fast Ramp
 
@@ -220,11 +223,19 @@ Aspirator Set up
 | 36.5 		  | 1          | 0       | 2     |
 | 37.5 		  | 1          | 0       | 2     |
 | 38.5 		  | 200        | 0       | 2     |
+
+1. Submerge apparatus into water bath.
+2. Press start on the WinTherm-Thermal Analytics Software and click OK to confirm.
 	
 	
 ## 3. Static
-Using the WinTherm-Thermal Analytics Software, imput desired temperature into "set temp" box and press enter
-
+1. Using the WinTherm-Thermal Analytics Software, imput desired temperature into "set temp" box and press enter.
+2. Submerge apparatus into water bath for 200 minutes. 
 
 ## 4. Hardening
-Using the WinTherm-Thermal Analytics Software, imput desired temperature into "set temp" box and press enter
+1. Using the WinTherm-Thermal Analytics Software, input first desired temperature into "set temp" box and press enter. 
+2. Submerge apparatus into water bath for 60 minutes. 
+3. Remove the apparatus for 5 minutes
+4. Input second desired temperature into "set temp" box and press enter. 
+5. Re-insert the apparatus into the water bath for 200min. 
+
