@@ -23,4 +23,4 @@ List of protocols:
 * [European corn borer rearing](European_corn_borer_rearing.html)
 * [Thermal Hardiness Assays in D.melanogaster](2018-06-14_HC_Thermal_Hardiness_Assays_in_D_melanogaster.html)
 * [Thermocoupler Calibrations](2018-06-15_HC_thermocoupler_calibration.html)
-* [Drosophila SOP](2018-06-14_HC_Thermal_Hardiness_Assays_in_D_melanogaster.html)
+* [Drosophila SOP](2018-06-26_HC_drosophila_SOP.html)
