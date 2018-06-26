@@ -1,0 +1,243 @@
+---
+title: "Drosophila SOP"
+author: "Hahn Lab"
+date: "2018-06-26"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+fontsize: 18pt
+---
+
+[Back](https://adnguyen.github.io/Hahn_lab_protocols/) to main page
+
+# Kill Jar
+
+## Description
+
+Used to kill old/unnecessary/unused flies
+
+## Materials
+
+* [Large 32oz mason jar](https://www.amazon.com/32oz-Regular-Mouth-Canning-Mason/dp/B01N6QBJG0/ref=sr_1_8?s=kitchen&ie=UTF8&qid=1530017736&sr=1-8&keywords=mason+jar)
+* [Plastic funnel](https://www.thermofisher.com/order/catalog/product/4256-0638)
+    * Catalog No. 4256-0234
+* 95% ethanol in plastic jug (do not use the molecular-grade ethanol in glass jug)
+
+## Protocol 
+
+1. Fill 3/4 of mason jar with 95% ethanol (ethanol will evaporate so don't add before the weekend).
+2. Place plastic funnel inverted on the rim.
+3. Clean the kill jar *every six months* :
+    * Place a filter over a 70% ethanol and 30% water labeled hazardous waste bottle.
+    * Throw the dead fly bodies into the trash.
+
+# Cleaning Bowl
+
+## Description
+
+Used to rinse each funnel after every transfer to kill fly larvae to prevent contamination from other fly sources.
+
+## Materials
+* [Plastic container with lid](https://www.dartcontainer.com/products/foodservice-catalog/dinnerware-containers/containers/plastic/bare-by-solo-eco-forward-rpet-deli-containers/dm16r-0090/) (KEEP LID ON WHEN NOT USING!)
+    * Catalog No: DM16R-0090
+* 70% ethanol (labeled for cleaning)
+
+## Protocol
+1. Fill up the bowl one-third to halfway with 70% ethanol
+
+# Funnels
+
+## Description
+
+Used to ensure efficient transfer of flies between vials, bottles, etc. – funnels must be cleaned with ethanol to kill off eggs or larvae that stick to them, thus preventing contamination. 
+
+*Note: you will not be able to see eggs sticking to the funnel with the naked eye.* 
+
+## Protocol
+
+1. Dip the funnel into the cleaning bowl and spin around
+2. Tap off excess ethanol 
+3. Place upside-down on the paper towels
+
+*DO NOT leave out dirty funnels! A fellow lab member could mistake that funnel as clean, use it and then mess up his/her experiment or the backups! Be clean please.*
+
+Once cleaned, put the funnels on the towels or near the towel. This ensures that anyone in the lab knows that is a clean not a dirty funnel.
+
+# Fly Room Countertops
+
+To keep them neat, the ONLY things allowed on them 24/7 are: 
+1. The microscopes and their lights 
+
+2. The fly funnels 
+
+3. Cotton balls bowls and cleaning bowl 
+
+4. The markers and tweezers 
+
+5. The nitrogen goggles and gloves
+
+EVERYTHING else doesn't belong on the countertop, so when you are done doing using the object in fly room please put it in the correct drawer or shelf.
+
+# Vial Trays
+
+* __10 x 10 Trays__ that hold 100 vials each
+* __Cardboard trays__ used for experiments and holding backups/fly vials.
+* __Plastic trays__ used to make fly food.
+    * These trays fit perfectly into the machine and are the only ones used for making vials. 
+* __Cardboard trays__ used for bottles (can add a divider to make it into a vial tray).
+
+*Note: Both extra trays and dividers can be found inside the labeled drawer in the fly room. There are also parts on the shelf marked for different trays, this will keep that shelf organized and easier to find the tray you are searching for.*
+
+# Fly Food
+
+## Description
+
+Refrigerator in which food vials and food bottles can be found is located in the room off the main lab labeled “Hahn Lab, Insect Diets.”
+
+If you need a certain amount of bottles and/or vials per week please let one of the fly cooks know, this will just ensure that you have your bottles/vials and that the fly cooks can plan accordingly.
+
+*Make sure to wrap fly food tightly with glad wrap, pressing firmly down to create a good seal. When taking vials or bottles out of the fridge, make sure that remaining vessels get covered again with glad wrap or they will dry out and be useless.*
+
+## Restocking
+
+__Fly vials:__
+When out in the fly room, go into the storage cage (you will need the red key on the key rack) and grab a new box, when down to the final two boxes notify the lab manager to reorder.
+
+__Cotton balls:__
+When out in the fly room, go into the storage cage (you will need the red key on the key rack) and grab a new box; when down to the final box notify the lab manager to reorder.
+
+__Bottles:__
+ Notify lab manager when down to final box.
+ 
+# Cleaning ethanol
+
+## Description
+This lab uses 70% ethanol for cleaning. You will find this bottle under the fume hood in the main lab.
+
+## Recipe 
+
+To make 1L
+
+1. Add 737ml 95%ethanol and 263ml Water (make sure to use the ethanol in plastic bottles, not the analytical-grade ethanol in the glass bottles) into the large plastic jug.
+
+*When Stock Ethanol runs out, go into the hallway cabinet and grab a new bottle, notify the lab manager when on the final bottle.*
+
+# Drosophila diet - RECIPE
+
+## VIALS
+
+* 3,500 ml of water
+* Molasses: 179 ml
+* Agar: 26.7 g
+* Cornmeal: 256.4 g
+* Yeast: 51 g 
+* Tegosept: 47 ml
+* Propionic Acid: 21.2 ml
+
+## BOTTLES (+/- 50 bottles)
+* 3,125 ml of water
+* Molasses: 179 ml
+* Agar: 26.7 g
+* Cornmeal: 256.4 g
+* Yeast: 51 g 
+* Tegosept: 47 ml
+* Propionic Acid: 21.2 ml
+
+## Recipe
+
+1. Boil 1.15 L of water in a pot placed on the heating plate. Turn the heat of the heating plate to the highest temperature on the knob.
+
+2. Measure out 2L of water and heat using the electric kettle. Combine the two liters to the pot on the heating plate after the water in the pot has come to boil.
+
+3. Wait until all water has come to boil in the pot. Separate 1 L of water from the pot and place aside.
+
+4. Add the molasses and agar to the pot; stir well. Add the cornmeal and yeast to the water that was set aside; stir well.
+
+5. After the pot’s water with agar and molasses has come back to a boil, pour in the cornmeal and yeast mixture; stir well. Wait until this mixture comes to a boil. Take pot off heating plate and let cool for 5 minutes. 
+
+6. Add in the Tegosept and Propionic Acid; stir well.
+
+*Tegosept solution: 10g of 4-methylhydroxyparaben in 100ml 95% ETOH*
+
+## Filling in the containers
+
+To fill trays of vials, use the “Drosofiller”. 
+
+1. Place one full tray of vials in the filler chamber. Make sure that the grates are closed of the Drosofiller before you pour food in to the Drosofiller. Pull the lever and allow the food to drain into the vials until the vials are 3/2 of an inch full. One batch of food should make 3 vial trays.
+
+2. To fill bottles you will use the measuring cup that has a spout at the end that creats an easy pouring motion. Spread empty bottles across the counter top and pour food until the only indention line on the bottle (close to the bottom of the bottle) is completely submerged. For easy clean up, spread paper towels across the countertops before you place the empty bottle on the countertop.
+
+3. Place any filled food containers underneath to ensure that no undesired flies eat or lay eggs in the newly prepared food. The net is found in the food room, in the drawer with the other food making supplies.
+
+# Maintaining Experimental Fly Stocks:
+
+## Backup Scheme:
+
+Each line of flies has 3 separate vials in which 3 generations are being reared. 
+
+1. Week 1 Vial (most recent date) through Week 3 Vial (oldest date) can be found in the rearing chamber that is located in the back hallway across from the room in which the fly food is made. Backups are done once every week, one week apart. 
+
+* When it is time to do the next week’s back ups it is very important to stay organized. The whole lab depends on the backups to be pure in their own genome. 
+
+* Start by first setting aside week one, these will be cleared in the Kill Jar when all new backup vials are completed. 
+
+* Obtain fresh food vials from the fridge and set them upside down on a paper towel to let the condensation evaporate. This is important so the flies do not stick to the sides or the bottom of the vials because this can result in death for the flies.
+
+*Not necessary with new fridge*
+Tip them right side up and immediately lodge the opening with one cotton ball per vial. This is important because it keeps unwanted flies from laying eggs or inhabiting the fresh vial.
+
+* Continue with labeling each vial with the correct line name and the date on which you are conducting the backups. 
+
+2. Transfer Week 2 Vial Flies into the brand new vial. Dislodge the new vial and placing a funnel in the opening. Then gently tap vial two on a foam mouse pad to force the flies to the bottom of the vial. 
+
+* Take the cotton ball off vial two and quickly flip over vial two’s contents into the new vial using the funnel. Then gently tap the new vial on the foam pad and replace its cotton ball. Recap Vial Two as well. 
+
+* If not enough flies are produced by Vial Two, you may also use Week Three Flies. However, it is encouraged to use the younger flies because they are the most successful with the production of offspring.
+
+* After all lines are done, Vial One’s content may be cleared in kill jar.
+
+*If you are to run out of funnels, you are to clean them in the ethanol and dry them with a paper towel before reusing. Also, after all backups are completed you must clean the funnels. You are NOT permitted to leave dirty funnels in fly room after leaving.* 
+
+3. The last step is to freeze Week Three Vials in the freezer designated for fly disposal right outside the main lab. 
+
+4. Replace backups in the holding chamber until the next week.  
+
+
+# Traps
+
+## Description
+
+Traps are used to ensure the trapping of flies that have escaped through the lab trial experiments, sorting, backups, etc.
+
+There are four traps placed around the lab: one in the break room, three in the fly sorting room.
+
+Traps are to be changed out weekly. 
+
+## Materials
+
+* One empty bottle (the ones also used for fly food)
+* One sheet of copy paper (check next to the printer in the fly sorting room for there is typically recycled paper ready for use)
+* Tape
+* Scissors
+* 2 slices of frozen banana (kept in refrigerator located between food refrigerator and break room door)
+
+## Protocol
+
+1. Cut two slices of banana and place into bottle.
+
+2. Fill bottle with water until the banana slices are completely submerged.
+
+3. Make a cone with the piece of paper, creating a hole at the tip of the cone. This hole will be used for fly entrance. It is very important that the hole is made large enough so the flies can fit through it, but not large enough to allow flies to easily navigate their way back out of the trap. Remember, the whole point of the trap is to keep the flies in an area that is easily disposed of, not to give the flies free food and a place to breed. 
+
+4. Tape the cone to secure structure.
+
+5. Place cone, tip side down, into the bottle.
+
+6. Tape the cone to the bottle along the entire circumference of the cone. Check that a good seal was made. 
+
+7. Date trap with the date in which the trap was made.
+

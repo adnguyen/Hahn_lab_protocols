@@ -22,14 +22,16 @@ fontsize: 18pt
 * N/A
 
 # Machines, Apparatus, & Instruments
-Water Bath: LAUDA ECO Silver Immersion thermostat, Model ECO RE 1050 S  
+Water Bath: LAUDA ECO Silver Immersion thermostat, Model ECO RE 1050 S   
+
 * Catalog No. LCK 4918
 * [Website](http://www.capitolscientific.com/LAUDA-LCK-4918-Model-ECO-RE-1050-S-Stainless-Steel-Refrigerated-Circulator-Bath-with-ECO-Silver-Th)
 * [Manual](http://www.lauda-brinkmann.com/downloads/manuals/Eco%20Silver.pdf)
 
-Thermocoupler: Omega HH506RA Multilogger Thermometer
-* ![pic](https://github.com/HannahHChu/Notebooks/blob/master/Images/thermocooler3.JPG
-* Model No. HH506RA
+Thermocoupler: Omega HH506RA Multilogger Thermometer    
+![pic](https://github.com/HannahHChu/Notebooks/blob/master/Images/thermocooler3.JPG)
+
+* Model No. HH506RA  
 * [Website](https://www.omega.com/pptst/HH506A_HH506RA.html)
 * [Specs](https://www.omega.com/temperature/pdf/HH506A_HH506RA.pdf)
 * [Manual](https://www.omega.com/manuals/manualpdf/M4079.pdf)
