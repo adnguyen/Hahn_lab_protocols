@@ -15,41 +15,68 @@ fontsize: 18pt
 [Back](https://adnguyen.github.io/Hahn_lab_protocols/) to main page
 
 # General info and notes before starting 
-* There are 14 water bath tubes set up to examine 14 strains of drosophila:
-![wb](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8035.JPG)
+* There are 13 water bath tubes set up to examine 13 [DSPR founder lines](http://wfitch.bio.uci.edu/~dspr/RILs/index.html) of drosophila melanogaster:
+![wb](https://user-images.githubusercontent.com/26017826/42095434-99704dfe-7b80-11e8-9cb5-816b320a32e0.JPG)
 
-# Reagents 
-* N/A
+| Lines | Vial Code/Stock Number | Stock Name | # of Vials received 2018-06-12 | 
+| ----- | ---------------------- | ---------- | ------------------------------ |
+| AB8   |             Sam        |     n/a    |               3                |
+| A5    |            3875        |   VAG1     |               2                |
+| A7    |    T.7/14021-0231.7    |   	n/a     |               2                |
+| A2    |            3841        |   BOG1     |               2                |
+| B6    | 	T.1/14021-0231.1     |   n/a      |               2                |
+| B7    |   T.4/14021-0231.4     |   n/a      |               2                |
+| A4    |            3852        |   KSA2     |               2                |
+| A6    |            3886        |   wild5B   |               2                |
+| A3    |            3844        |   BS1      |               2                |
+| B2    |            3846        |   CA1      |               2                |
+| B3    |            3864        |   QI2      |               2                |
+| A1    |            1           |   Canton-S |               2                |
+| B4    |            3870        |   RVC3     |               2                |
+
 
 # Machines, Apparatus, & Instruments
-Water Bath: LAUDA ECO Silver Immersion thermostat, Model ECO RE 1050 S   
+**Water Bath**: LAUDA ECO Silver Immersion thermostat, Model ECO RE 1050 S   
+
+![](http://www.capitolscientific.com/core/media/media.nl?id=451910&c=1250437&h=75bb4edc86bbe5bcc5a4)
 
 * Catalog No. LCK 4918
 * [Website](http://www.capitolscientific.com/LAUDA-LCK-4918-Model-ECO-RE-1050-S-Stainless-Steel-Refrigerated-Circulator-Bath-with-ECO-Silver-Th)
 * [Manual](http://www.lauda-brinkmann.com/downloads/manuals/Eco%20Silver.pdf)
 
-Thermocoupler: Omega HH506RA Multilogger Thermometer    
-![pic](https://github.com/HannahHChu/Notebooks/blob/master/Images/thermocooler3.JPG)
+**Thermocoupler**: Omega HH506RA Multilogger Thermometer 
+
+![](https://user-images.githubusercontent.com/26017826/42095433-9954f8ec-7b80-11e8-9746-7c8c9394f0a5.jpg)
 
 * Model No. HH506RA  
 * [Website](https://www.omega.com/pptst/HH506A_HH506RA.html)
 * [Specs](https://www.omega.com/temperature/pdf/HH506A_HH506RA.pdf)
 * [Manual](https://www.omega.com/manuals/manualpdf/M4079.pdf)
 
-Glass Test tubes: Pyrex No. 9826
+**Glass Test tubes**: Pyrex No. 9826
+
+![](https://www.sigmaaldrich.com/content/dam/sigma-aldrich/product2/103/cls9826_sm.tif/_jcr_content/renditions/cls9826_sm-medium.jpg)
+
 * Manufacturing No.: Corning, 9826-16, O.D. × L 16 mm × 100 mm
 * [Website](https://www.sigmaaldrich.com/catalog/product/aldrich/cls982616?lang=en&region=US)
-Test tube rack: Full-View Test Tube Rack, 13-16mm tubes, 50 Place
+
+**Test tube rack**: Full-View Test Tube Rack, 13-16mm tubes, 50 Place
+
+![](http://prolabscientific.com/images/T/xctmpMfBXhn.png)
+
 * Manufactoring No. H18911-0000
 * [Website](https://www.supplymylab.com/Supplies/Racks/_/PIN-STYLE-TEST-TUBE-RACKS?=&gclid=CjwKCAjwsJ3ZBRBJEiwAtuvtlFGpJXjTFulK0gRzhGnNBXTrayx-hRXRtmuEZQ2NUpUmFCEtH8zjHRoCAGsQAvD_BwE)
 
-Tube Set Up: Cut half of a styrofoam falcon tube rack and hot clue to plastic test tube rack
-* [top view](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8076.JPG)
-* [front view](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8077.JPG)
-* [side view](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8078.JPG)
+**Tube Set Up**: Cut half of a styrofoam falcon tube rack and hot clue to plastic test tube rack
 
-Aspirator Set up
-* ![pic](https://github.com/HannahHChu/Notebooks/blob/master/Images/IMG_8079.JPG)
+* [top view](https://user-images.githubusercontent.com/26017826/42095435-9981db5a-7b80-11e8-8269-f18319ef5414.JPG)
+* [front view](https://user-images.githubusercontent.com/26017826/42095436-99958790-7b80-11e8-8465-0c7d15f0e6b9.JPG)
+* [side view](https://user-images.githubusercontent.com/26017826/42095437-99b81742-7b80-11e8-9981-df9263372799.JPG)
+
+**Aspirator Set up**
+
+![](https://user-images.githubusercontent.com/26017826/42095438-99de3724-7b80-11e8-852c-6e63347ab10c.JPG)
+
 * Vinyl Tubing: Watts Clear Vinyl Tubing 8mm OD x 5mm ID
   * [Buy](https://www.amazon.com/Clear-Vinyl-Tubing-ID-250/dp/B000H5WQXC)
   * Ref. No.: 443063/LSVEB20
