@@ -1,0 +1,174 @@
+---
+title: "Homogenization & Protein Quantitation"
+author: "Hannah Chu"
+date: "2018-07-30"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+fontsize: 18pt
+---
+
+[Back](https://adnguyen.github.io/Hahn_lab_protocols/) to main page
+
+# Reagents & Apparatus
+
+* [Covaris Buffer SuperB](http://covaris.corecommerce.com/Protein-Extraction-Buffer-SuperB-p215.html)
+    * Catalog No: 520112
+  
+* [Halt™ Protease and Phosphatase Inhibitor Cocktail (100X)](https://www.thermofisher.com/order/catalog/product/78440)
+    * Catalog No: 78440
+  
+* [Pierce™ Coomassie (Bradford) Protein Assay Kit](https://www.thermofisher.com/order/catalog/product/23200)
+    * Catalog No:  23200
+  
+* [Pierce™ BCA Protein Assay Kit](https://www.thermofisher.com/order/catalog/product/23225)
+    * Catalog No:  23225
+  
+* [Beckman Coulter Optima TLX-120 Ultracentrifuge](https://gmi-inc.com/beckman-coulter-optima-tlx-120-ultracentrifuge.html)
+    * Catalog No:  8043-30-1202
+  
+![](https://user-images.githubusercontent.com/26017826/43428700-a3b127a0-942d-11e8-9c0b-fbf172e24443.JPG)
+
+* [TLA-120.2 Fixed-Angle Rotor Package](https://www.beckman.com/centrifuges/rotors/fixed-angle/357656)
+    * Catalog No:357656
+  
+![](https://user-images.githubusercontent.com/26017826/43428701-a3d7ab50-942d-11e8-82d6-c3a5c5643f6f.JPG)
+
+![](https://user-images.githubusercontent.com/26017826/43428702-a40d390a-942d-11e8-91aa-53efd4703d23.JPG)
+
+* Ultracentrifuge tubes
+
+* [ProFlex™ 2 x 96-well PCR System](https://www.thermofisher.com/order/catalog/product/4484076)
+    * Catalog No: 4484076
+
+* [Corning™ 96-Well Clear Ultra Low Attachment Microplates](https://www.fishersci.com/shop/products/costar-clear-multiple-well-plates/07201680)
+    * Catalog No: 07201680
+
+# Protocol 
+
+## Homogenization
+
+1. Make 5x Protease Inhibitor Buffer for 8 tubes. 
+
+| Ingredients | Initial | Final | Volume |
+| ----------- | ------- | ----- | ------ |
+| Covaris     | 1x      | 1x    | 5640uL |
+| EDTA        | 100x    | 1x    | 60uL   |
+| Protease Inhibitor | 100x | 5x | 300uL |
+
+2. Flash freeze flies using liquid nitrogen. Ass 10 flies, homogenization beads to bottom line, and 350uL of buffer to each tube.
+
+3. Homogenize tubes:
+    * 5000RPM
+    * 10 seconds
+    * 3 times with 1 minute ice periods inbetween each homogenization
+
+4. Set centrifuge to 4ºC and place tubes into centrifuge. Press short button for 2 minutes.
+
+5. Remove ~300uL of protein from the tubes. Combine volume of two tubes into 1 ultracentrifuge tube. This makes for a total of 4 ultracentrifuge tubes. 
+
+6. Balance the ultracentrifuge tubes by mass using balance and leftover 5x buffer. 
+
+## First Ultracentrifugation
+
+1. Press ENTER/DISPLAY and set Beckman Coulter Optima TLX-120 Ultracentrifuge to:
+  * 53,000 RPM
+  * 30 minutes
+  * 4ºC
+  
+2. Once ultracentrifuge is at 4ºC, press door and slide open. Place the ultracentrifuge tube into the rotor. Place rotor into the ultracentrifuge. MAKE SURE TO PRESS SILVER BUTTON IN CENTER OF ROTOR.
+
+3. Close door tightly and wait for VAC & DOOR light to go off. Press ENTER/DISPLAY and START.
+
+## Thermal Treatment
+
+1. Combine ultracentrifuged product into one conical vial.
+
+2. Pipette 50uL of protein product into 30 0.2mL PCR tubes labeled 1-10, each number 3 times. 
+
+3. Using ProFlex™ 2 x 96-well PCR System, set block A and block B to protein_low and protein_hi program. See below for temperature gradient:
+
+| Sample | Temperature(ºC) | Column         | 
+| -----  | --------------- | -------------- |
+| 1      | 0               | ice            | 
+| 2      | 25              | room temp      | 
+| 3      | 30              | H - block A    | 
+| 4      | 35.9            | E - block A    | 
+| 5      | 39.4            | D - block A    | 
+| 6      | 45              | A - block A    | 
+| 7      | 50              | H - block B    | 
+| 8      | 54.5            | F - block B    | 
+| 9      | 62.5            | D - block B    | 
+| 10     | 70              | A - block B    | 
+
+  * 4ºC 1 min, and then set to hold
+  * Pause protocol and place samples in
+  * "Skip step" to the gradient for 20 min
+  * Once ended, remove samples and place on ice.
+  
+## Second Ultracentrifugation
+
+1. Make 0x Protease Inhibitor Buffer for 10 ultracentrifuge tubes. 
+
+| Ingredients | Initial | Final | Volume |
+| ----------- | ------- | ----- | ------ |
+| Covaris     | 1x      | 1x    | 5940uL |
+| EDTA        | 100x    | 1x    | 60uL   |
+
+2. In each ultracentrifuge tube, add 400uL buffer and 100uL of each thermal treatment sample. 
+
+3. Press ENTER/DISPLAY and set Beckman Coulter Optima TLX-120 Ultracentrifuge to:
+  * 53,000 RPM
+  * 30 minutes
+  * 4ºC
+  
+4. Once ultracentrifuge is at 4ºC, press door and slide open. Place the ultracentrifuge tube into the rotor. Place rotor into the ultracentrifuge. MAKE SURE TO PRESS SILVER BUTTON IN CENTER OF ROTOR.
+
+5. Close door tightly and wait for VAC & DOOR light to go off. Press ENTER/DISPLAY and START.
+
+## Protein Quantitation
+
+** Standards **
+
+Make 1x Protease Inhibitor Buffer for 5-6 standards. 
+
+| Ingredients | Initial | Final | Volume |
+| ----------- | ------- | ----- | ------ |
+| Covaris     | 1x      | 1x    | 882uL  |
+| EDTA        | 100x    | 1x    | 9uL    |
+| Pro. Inhib. | 100x    | 1x    | 9uL    |
+
+| Standards(ug/uL)   | Albumin(uL) | Buffer(uL) |
+| ------------------ | ----------- | ---------- | 
+| 0.25               |  25         | 175        |
+| 0.20               |  20         | 180        |
+| 0.15               |  15         | 185        |
+| 0.1                |  10         | 190        |
+| 0                  |  0          | 200        |
+
+
+### Bradford Assay
+
+1. Allow Coomassie Reagent to warm to room temperature.
+
+2. In each well add 300uL Coomassie Reagent + 10uL sample/standard and mix on orbital shaker
+
+3. Incubate at room temperature for 10 min.
+
+4. Quantify at 595nm
+
+### BCA Assay
+
+1. Make working reagent using the following formula:
+
+(# Standards + # unknowns) x (# replicates) x (WR volume/sample) = total WR needed
+
+2. In each well, add 250uL WR + 25uL sample/standard and mix on orbital shaker
+
+3. Incubate at 37ºC for 30 minutes
+
+4. Quantify at 562nm

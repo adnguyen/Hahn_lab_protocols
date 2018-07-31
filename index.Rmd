@@ -24,3 +24,5 @@ List of protocols:
 * [Thermal Hardiness Assays in D.melanogaster](2018-06-14_HC_Thermal_Hardiness_Assays_in_D_melanogaster.html)
 * [Thermocoupler Calibrations](2018-06-15_HC_thermocoupler_calibration.html)
 * [Drosophila SOP](2018-06-26_HC_drosophila_SOP.html)
+* [Protein Homogenization & Quantitation](2018-07-30_HC_protein_quantitation.html)
+
