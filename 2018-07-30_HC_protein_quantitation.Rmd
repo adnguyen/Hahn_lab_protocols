@@ -60,7 +60,7 @@ fontsize: 18pt
 | EDTA        | 100x    | 1x    | 60uL   |
 | Protease Inhibitor | 100x | 5x | 300uL |
 
-2. Flash freeze flies using liquid nitrogen. Ass 10 flies, homogenization beads to bottom line, and 350uL of buffer to each tube.
+2. Flash freeze flies using liquid nitrogen. Add 10 flies, homogenization beads to bottom line, and 350uL of buffer to each tube.
 
 3. Homogenize tubes:
     * 5000RPM
